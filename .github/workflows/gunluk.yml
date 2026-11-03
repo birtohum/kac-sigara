@@ -1,0 +1,54 @@
+name: Günlük güncelleme
+
+on:
+  schedule:
+    - cron: "40 0 * * *"   # 03:40 (Türkiye saati), önceki gün tamamlandıktan sonra
+  workflow_dispatch:
+    inputs:
+      gun:
+        description: "Kaç gün geriye çekilsin"
+        default: "7"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: gunluk
+  cancel-in-progress: false
+
+jobs:
+  guncelle:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    environment:
+      name: github-pages
+      url: ${{ steps.yayin.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt pytest
+      - run: python -m pytest -q
+      - name: Veriyi çek
+        run: python cek.py --gun "${{ github.event.inputs.gun || '7' }}"
+      - name: Siteyi üret
+        run: python hesapla.py
+      - name: Değişiklik varsa kaydet
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add veri site/veri
+          if git diff --cached --quiet; then
+            echo "değişiklik yok"
+          else
+            git commit -m "Veri: $(TZ=Europe/Istanbul date -d yesterday +%F)"
+            git push
+          fi
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: yayin
+        uses: actions/deploy-pages@v4
