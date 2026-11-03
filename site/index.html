@@ -4,109 +4,140 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Kaç Sigara?</title>
-<meta name="description" content="Türkiye'deki hava kalitesi istasyonlarının PM2.5 ölçümlerinden, her il için günlük 'sigara eşdeğeri'. Her gün güncellenir.">
+<meta name="description" content="Şehrinin havası dün kaç sigaraya eşitti? Bakanlık istasyonlarının PM2.5 ölçümlerinden, 81 il için her gün güncellenen kaba bir benzetme.">
 <meta property="og:title" content="Şehrinin havası kaç sigaraya eşit?">
-<meta property="og:description" content="Bakanlık istasyonlarının PM2.5 ölçümleri, il il, her gün. Kaba bir benzetme; yöntemi ve sınırları sitede.">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect x='3' y='13' width='22' height='6' rx='1' fill='%23eee'/%3E%3Crect x='21' y='13' width='4' height='6' fill='%23eb6834'/%3E%3Cpath d='M27 12c2-2 0-4 1-6' stroke='%23999' stroke-width='1.5' fill='none'/%3E%3C/svg%3E">
+<meta property="og:description" content="Bakanlık istasyonlarının PM2.5 ölçümleri, il il, her gün. Kaba bir benzetme; yöntemi ve sınırları sayfada.">
+<meta name="theme-color" content="#1d1f22">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect x='2' y='13' width='6' height='6' fill='%23d9a066'/%3E%3Crect x='8' y='13' width='16' height='6' fill='%23f5f3ee'/%3E%3Crect x='24' y='13' width='5' height='6' fill='%23ff5a1f'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400..800&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="stil.css">
 </head>
 <body>
-<header class="ust">
-  <div class="kap">
-    <h1>Şehrinin havası kaç sigaraya eşit?</h1>
-    <p class="alt">Bakanlık hava kalitesi istasyonlarının PM2.5 ölçümleri, il il, her gün. <a href="#yontem">Bu kaba bir benzetme</a>, tıbbi bir ölçü değil.</p>
+
+<header class="hero" id="hero">
+  <div class="duman" aria-hidden="true"><i></i><i></i><i></i></div>
+  <div class="hero-ic">
+    <p class="hero-soru">
+      <span id="hero-gun">Dün</span>
+      <label class="sehir-sec">
+        <span id="sehir-ad" aria-hidden="true">İstanbul</span>
+        <select id="il-sec" aria-label="İl seç"></select>
+      </label><span id="hero-ek">'da</span> nefes almak
+    </p>
+    <p class="hero-sayi"><span class="esittir">=</span> <span id="hero-sayi">…</span> <span class="birim">sigara</span></p>
+    <div id="hero-sigaralar" class="sigaralar" aria-hidden="true"></div>
+    <p class="hero-alt" id="hero-alt"></p>
+    <div class="hero-dugmeler">
+      <button type="button" id="konum" class="hafif">📍 Konumumdan bul</button>
+      <a href="#paylas-bolum" class="hafif">Paylaş</a>
+    </div>
+    <p class="hero-uyari">Kaba bir benzetme, tıbbi ölçü değil: günlük ortalama 22 µg/m³ PM2.5 ≈ 1 sigara
+      (<a href="https://berkeleyearth.org/air-pollution-and-cigarette-equivalence/">Berkeley Earth</a>). <a href="#yontem">Yöntem ve sınırlar</a></p>
   </div>
+  <a class="asagi" href="#yil" aria-label="Aşağı kaydır">↓</a>
 </header>
 
-<main class="kap">
-  <section class="kahraman" aria-live="polite">
-    <label class="secici">
-      <span>İl</span>
-      <select id="il-sec"></select>
-    </label>
-    <div id="kahraman-icerik" class="kahraman-icerik"><p class="soluk">Yükleniyor…</p></div>
-  </section>
-
-  <section class="kart">
-    <div class="kart-bas">
-      <h2>Türkiye, <span id="harita-tarih"></span></h2>
-      <p class="soluk" id="harita-not"></p>
-    </div>
-    <div id="harita" class="harita"></div>
-    <div id="lejant" class="lejant"></div>
-  </section>
-
-  <section class="kart" id="il-detay">
-    <div class="kart-bas">
-      <h2 id="detay-baslik">Son 30 gün</h2>
-      <p class="soluk">Her çubuk bir günün il ortalaması. Kesikli çizgi: WHO 24 saatlik yönergesi (15 µg/m³ ≈ 0,7 sigara). Boş gün: geçerli ölçüm yok.</p>
-    </div>
-    <div id="grafik-30" class="grafik"></div>
-    <div class="kart-bas ikinci">
-      <h2>Son 1 yıl</h2>
-      <p class="soluk">İnce çizgi günlük değer, kalın çizgi 30 günlük hareketli ortalama (en az 15 geçerli gün varsa).</p>
-    </div>
-    <div id="grafik-yil" class="grafik"></div>
-    <div id="yil-ozet" class="yil-ozet"></div>
-    <details class="istasyonlar">
-      <summary>İstasyonlar</summary>
-      <div id="istasyon-tablo"></div>
-    </details>
-  </section>
-
-  <section class="kart">
-    <div class="kart-bas"><h2>Son tam günde en temiz ve en kirli iller</h2></div>
-    <div class="iki-sutun">
-      <div><h3>En temiz</h3><ol id="temiz" class="liste"></ol></div>
-      <div><h3>En kirli</h3><ol id="kirli" class="liste"></ol></div>
+<main>
+  <section class="bolum" id="yil">
+    <div class="kap">
+      <p class="ust-baslik" id="yil-ust"></p>
+      <p class="dev"><span id="yil-sayac">0</span> <span class="birim">sigara</span></p>
+      <p class="bulgu" id="yil-bulgu"></p>
+      <div id="paketler" class="paketler" aria-hidden="true"></div>
     </div>
   </section>
 
-  <section class="kart">
-    <div class="kart-bas">
-      <h2>Son 365 günün ortalaması</h2>
-      <p class="soluk" id="yillik-not"></p>
-    </div>
-    <div id="yillik-tablo" class="tablo-kap"></div>
-  </section>
-
-  <section class="kart">
-    <div class="kart-bas">
-      <h2>Son 365 günün en kötü il-günleri</h2>
-    </div>
-    <ol id="en-kotu" class="liste"></ol>
-  </section>
-
-  <section class="kart">
-    <div class="kart-bas">
-      <h2>Mevsimsellik</h2>
-      <p class="soluk">Her ay, ölçüm yapılan tüm il-günlerin ortalaması (her il-gün eşit ağırlıkta).</p>
-    </div>
-    <div id="grafik-mevsim" class="grafik"></div>
-  </section>
-
-  <section class="kart">
-    <div class="kart-bas">
-      <h2>Paylaş</h2>
-      <p class="soluk">Seçili ilin son tam gün kartı. Görsel tarayıcında üretilir, hiçbir yere gönderilmez.</p>
-    </div>
-    <canvas id="paylas-kart" width="1080" height="1080" class="paylas-onizleme"></canvas>
-    <div class="dugmeler">
-      <button id="indir" type="button">Görseli indir</button>
-      <button id="paylas" type="button" hidden>Paylaş…</button>
-      <button id="baglanti" type="button">Bağlantıyı kopyala</button>
+  <section class="bolum">
+    <div class="kap">
+      <p class="ust-baslik">Son 30 gün</p>
+      <h2 class="bulgu-baslik" id="otuz-baslik"></h2>
+      <div id="grafik-30" class="grafik"></div>
+      <p class="not">Her çubuk bir günün il ortalaması. Mavi kesikli çizgi: WHO'nun 24 saatlik yönergesi, 15 µg/m³ (≈ 0,7 sigara). Boşluk: o gün geçerli ölçüm yok.</p>
     </div>
   </section>
 
-  <section class="kart yontem" id="yontem">
-    <h2>Yöntem ve sınırlar</h2>
-    <p><strong>Veri:</strong> T.C. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı Ulusal Hava Kalitesi İzleme Ağı, <a href="https://sim.csb.gov.tr/Services/AirQuality">sim.csb.gov.tr</a>. İstasyonların saatlik PM2.5 değerleri (µg/m³) her gece çekilir; son 7 gün her seferinde yeniden alınır, çünkü kaynak geçmiş değerleri sonradan düzeltebiliyor.</p>
-    <p><strong>Sigara benzetmesi:</strong> Berkeley Earth'ün kaba kuralı: günlük ortalama 22 µg/m³ PM2.5'e bir gün maruz kalmak, ölüm riskine etkisi bakımından kabaca günde 1 sigara içmeye denk (<a href="https://berkeleyearth.org/air-pollution-and-cigarette-equivalence/">Muller &amp; Muller, 2015</a>). Burada sigara = günlük ortalama PM2.5 ÷ 22. Bu bir iletişim aracıdır: kişisel maruziyeti, iç mekânı, sigaranın başka etkilerini ve kişiden kişiye farkları hesaba katmaz. Tıbbi bir ölçü değildir.</p>
-    <p><strong>Eksik veri:</strong> Bir istasyonun günü, 24 saatin en az 18'inde (%75) geçerli ölçüm varsa sayılır. Boş, negatif ya da 1000 µg/m³'ün üstündeki saatlik değerler geçersiz sayılır. Hiç geçerli istasyonu olmayan il o gün gri kalır; değer tahmin edilmez, komşu ilden doldurulmaz.</p>
-    <p><strong>İl değeri:</strong> O gün geçerli olan istasyonların günlük ortalamalarının basit ortalamasıdır; istasyon sayısı yanında yazar. İstasyonlar ili temsil edecek biçimde yerleştirilmemiş olabilir: trafik, sanayi ya da ısınma kaynaklı kirliliğe yakın istasyonlar ortalamayı yükseltebilir, tek istasyonlu illerde değer o noktayı gösterir.</p>
-    <p><strong>Sıralama:</strong> Son 365 günün ortalaması, ancak en az 183 geçerli günü olan illerde sıralanır. "Bu yıl toplam" yalnızca ölçüm olan günlerin toplamıdır; kaç günün verisi olduğu yanında yazar.</p>
-    <p><strong>Ham veri:</strong> Doğrulanmamış (son günlere ait) değerler sonradan değişebilir. Günlük istasyon ortalamaları ve kullanılan kod <a id="depo-baglanti" href="https://github.com/birtohum/hava">depoda</a> açık.</p>
-    <p class="soluk">Harita sınırları: Natural Earth (kamu malı). Son güncelleme: <span id="guncelleme"></span>.</p>
+  <section class="bolum">
+    <div class="kap">
+      <p class="ust-baslik">Son 1 yıl</p>
+      <h2 class="bulgu-baslik" id="yilgrafik-baslik"></h2>
+      <div id="grafik-yil" class="grafik"></div>
+      <p class="not">İnce çizgi günlük değer, kalın çizgi 30 günlük hareketli ortalama (pencerede en az 15 geçerli gün varsa).</p>
+    </div>
+  </section>
+
+  <section class="bolum koyu">
+    <div class="kap">
+      <p class="ust-baslik">Türkiye, <span id="harita-tarih"></span></p>
+      <h2 class="bulgu-baslik" id="harita-baslik"></h2>
+      <div id="harita" class="harita"></div>
+      <div id="lejant" class="lejant"></div>
+      <div class="iki">
+        <div><h3>En temiz</h3><ol id="temiz" class="sirali"></ol></div>
+        <div><h3>En kirli</h3><ol id="kirli" class="sirali"></ol></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="bolum">
+    <div class="kap">
+      <p class="ust-baslik">Son 365 gün</p>
+      <h2 class="bulgu-baslik">Yılın en kötü 5 il-günü</h2>
+      <ol id="en-kotu" class="kotu-gunler"></ol>
+      <p class="bulgu kucuk" id="sehir-en-kotu"></p>
+    </div>
+  </section>
+
+  <section class="bolum">
+    <div class="kap">
+      <p class="ust-baslik">Mevsimler</p>
+      <h2 class="bulgu-baslik" id="mevsim-baslik"></h2>
+      <div id="grafik-mevsim" class="grafik"></div>
+      <p class="not">Her ay, ölçüm yapılan tüm il-günlerin ortalaması; her il-gün eşit ağırlıkta. Ölçüm yapan il sayısı aydan aya değişir.</p>
+    </div>
+  </section>
+
+  <section class="bolum">
+    <div class="kap">
+      <p class="ust-baslik">Sıralama</p>
+      <h2 class="bulgu-baslik" id="siralama-baslik"></h2>
+      <details class="acilir">
+        <summary>Bütün illerin tablosu</summary>
+        <p class="not" id="yillik-not"></p>
+        <div id="yillik-tablo" class="tablo-kap"></div>
+      </details>
+      <details class="acilir">
+        <summary>Seçili ilin istasyonları</summary>
+        <div id="istasyon-tablo"></div>
+      </details>
+    </div>
+  </section>
+
+  <section class="bolum koyu" id="paylas-bolum">
+    <div class="kap">
+      <p class="ust-baslik">Paylaş</p>
+      <h2 class="bulgu-baslik">Seninki kaç sigara?</h2>
+      <canvas id="paylas-kart" width="1080" height="1350" class="kart-onizleme"></canvas>
+      <div class="dugmeler">
+        <button id="indir" type="button" class="ana">Görseli indir</button>
+        <button id="paylas" type="button" hidden>Paylaş…</button>
+        <button id="baglanti" type="button">Bağlantıyı kopyala</button>
+      </div>
+      <p class="not">Görsel tarayıcında üretilir, hiçbir yere gönderilmez.</p>
+    </div>
+  </section>
+
+  <section class="bolum yontem" id="yontem">
+    <div class="kap">
+      <p class="ust-baslik">Yöntem ve sınırlar</p>
+      <p><strong>Veri.</strong> T.C. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı Ulusal Hava Kalitesi İzleme Ağı, <a href="https://sim.csb.gov.tr/Services/AirQuality">sim.csb.gov.tr</a>. İstasyonların saatlik PM2.5 değerleri (µg/m³) her gece çekilir; son 7 gün her seferinde yeniden alınır, çünkü kaynak geçmiş değerleri sonradan düzeltebiliyor. Sayfadaki "dün", verisi tamamlanmış son gündür.</p>
+      <p><strong>Sigara benzetmesi.</strong> Berkeley Earth'ün kaba kuralı: günlük ortalama 22 µg/m³ PM2.5'e bir gün maruz kalmak, ölüm riskine etkisi bakımından kabaca günde 1 sigara içmeye denk (<a href="https://berkeleyearth.org/air-pollution-and-cigarette-equivalence/">Muller &amp; Muller, 2015</a>). Burada sigara = günlük ortalama PM2.5 ÷ 22. Bu bir iletişim aracıdır: kişisel maruziyeti, iç mekânı, sigaranın başka etkilerini ve kişiden kişiye farkları hesaba katmaz. Tıbbi bir ölçü değildir.</p>
+      <p><strong>Eksik veri.</strong> Bir istasyonun günü, 24 saatin en az 18'inde (%75) geçerli ölçüm varsa sayılır. Boş, negatif ya da 1000 µg/m³'ün üstündeki saatlik değerler geçersizdir. Geçerli istasyonu olmayan il o gün gri kalır; değer tahmin edilmez, komşu ilden doldurulmaz.</p>
+      <p><strong>İl değeri.</strong> O gün geçerli olan istasyonların günlük ortalamalarının basit ortalaması; istasyon sayısı yanında yazar. İstasyonlar ili temsil edecek biçimde yerleştirilmemiş olabilir: trafik, sanayi ya da ısınma kaynağına yakın istasyonlar ortalamayı yükseltebilir, tek istasyonlu illerde değer o noktanın değeridir.</p>
+      <p><strong>Özetler.</strong> Yıllık sıralamaya son 365 günde en az 183 geçerli günü olan iller girer. "Bu yıl toplam", yalnızca ölçüm olan günlerin toplamıdır; kaç gün olduğu yanında yazar. Paket = 20 sigara.</p>
+      <p><strong>Açık kaynak.</strong> Günlük istasyon ortalamaları ve kod <a href="https://github.com/birtohum/hava">depoda</a>. Harita sınırları: Natural Earth (kamu malı). Son güncelleme: <span id="guncelleme"></span>.</p>
+    </div>
   </section>
 </main>
 
