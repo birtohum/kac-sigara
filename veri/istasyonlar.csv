@@ -1,213 +1,213 @@
 id,kod,ad,il,plaka,ilce,tur,enlem,boylam,kurum,ilk_gorulme,son_gorulme
 bdc1f3d0-0048-4603-80bb-af46609a6900,TR010213,Adana - Doğankent,Adana,1,Yüreğir,Hava Kalitesi,36.85414,35.34655,Akdeniz THM,2026-11-03,2026-11-06
-c31a108f-90bc-4426-b6bf-4a70239ab1b3,TR010341,Adana - Meteoroloji,Adana,1,Yüreğir,Hava Kalitesi,37.00418,35.34402,Akdeniz THM,2026-11-03,2026-11-26
-c75060c5-d28b-4071-899e-b7fd29eba457,TR010441,Adana - Valilik,Adana,1,Seyhan,Hava Kalitesi,36.99934,35.31272,Akdeniz THM,2026-11-03,2026-11-26
-468478b7-ace5-4bd3-b89a-a9c1c2e53080,TR010113,Adana - Çatalan,Adana,1,Karaisali,Hava Kalitesi,37.18635,35.26203,Akdeniz THM,2026-11-03,2026-11-26
-9a381f61-657b-42ea-be87-ae7216ae953a,TR010641,Adana - Çukurova,Adana,1,Seyhan,Isınma,37.04002,35.26998,Akdeniz THM,2026-11-03,2026-11-26
-2b79754a-c5fa-4f28-8d36-b1594372efdc,TR010541,Adana-Seyhan,Adana,1,Seyhan,Isınma,36.9719,35.31531,Akdeniz THM,2026-11-03,2026-11-26
-0ed2ff0e-9900-4e7b-ba64-c40e820104b2,TR010731,Adana-Turhan Cemal Beriker Bulvarı ,Adana,1,Seyhan,Kentsel-Trafik,36.99192,35.32605,Akdeniz THM,2026-11-03,2026-11-26
-a0798101-04dc-4964-8c00-487825b35fc1,TR010822,Adana-Yakapınar,Adana,1,Yüreğir,Kentsel-Sanayi,36.95784,35.60662,Akdeniz THM,2026-11-03,2026-11-26
-291d6758-cd2d-4bd3-bcb5-1280baf23a40,TR020141,Adıyaman,Adıyaman,2,Merkez,Hava Kalitesi,37.75511,38.27741,Güneydoğu Anadolu THM,2026-11-03,2026-11-26
-3b1e9930-2774-4b2b-977a-44bbc915df64,TR050431,Amasya - Şehzade,Amasya,5,Merkez,Hava Kalitesi,40.65721,35.83836,Orta Karadeniz THM,2026-11-03,2026-11-26
-251a7ea1-e3ff-4b2f-a4d2-1231118f83fa,TR060141,Ankara - Bahçelievler,Ankara,6,Çankaya,Hava Kalitesi,39.91836,32.82292,Kuzey İç Anadolu THM,2026-11-03,2026-11-26
-fcdb32a0-2456-457f-b312-415956e8e1e6,TR061041,Ankara - Batıkent,Ankara,6,Yenimahalle,Hava Kalitesi,39.95314,32.72698,Kuzey İç Anadolu THM,2026-11-03,2026-11-26
-0ef764db-fca4-437f-8db5-3ffba88a6073,TR060441,Ankara - Demetevler,Ankara,6,Yenimahalle,Hava Kalitesi,39.96775,32.79566,Kuzey İç Anadolu THM,2026-11-03,2026-11-26
-b6cee520-e791-43ad-8584-be4a6cdb89bc,TR061141,Ankara - Etimesgut,Ankara,6,Etimesgut,Hava Kalitesi,39.93982,32.64,Kuzey İç Anadolu THM,2026-11-03,2026-11-26
-a24eb747-acf0-479b-8308-153f0692c6e1,TR061241,Ankara - Etlik,Ankara,6,Yenimahalle,Hava Kalitesi,39.97386,32.82279,Kuzey İç Anadolu THM,2026-11-03,2026-11-26
-073ba16f-a576-45ee-b0cf-e56aa70f2253,TR060641,Ankara - Kayaş,Ankara,6,Mamak,Hava Kalitesi,39.9254,32.92675,Kuzey İç Anadolu THM,2026-11-03,2026-11-26
-c960495f-431d-43ef-a4a2-dc663214b73a,TR0602041,Ankara - Keçiören Sanatoryum,Ankara,6,Keçiören,Hava Kalitesi,39.99904,32.85606,Kuzey İç Anadolu THM,2026-11-03,2026-11-26
-ec35e67b-2f49-4568-add1-d82425656a53,TR061341,Ankara - Mamak,Ankara,6,Çankaya,Hava Kalitesi,39.91681,32.89397,Kuzey İç Anadolu THM,2026-11-03,2026-11-26
-4ef4bba3-8aeb-47ff-92ec-abea041e6001,TR061421,Ankara - Ostim,Ankara,6,Yenimahalle,Kentsel-Sanayi,39.98141,32.74405,Kuzey İç Anadolu THM,2026-11-03,2026-11-26
-733f07df-4743-4510-92b9-c5a6602a7f00,TR060941,Ankara - Sincan,Ankara,6,Sincan,Hava Kalitesi,39.95306,32.58173,Kuzey İç Anadolu THM,2026-11-03,2026-11-26
-6edbea5e-e575-4f89-9d7b-621c2e0c6c44,TR0601721,Ankara - Siteler,Ankara,6,Altındağ,Hava Kalitesi,39.96536,32.90723,Kuzey İç Anadolu THM,2026-11-03,2026-11-26
-ed5b48d0-14c4-47a4-8ad1-b5db53ae72c9,TR060831,Ankara - Sıhhıye,Ankara,6,Çankaya,Hava Kalitesi,39.92725,32.8594,Kuzey İç Anadolu THM,2026-11-03,2026-11-26
-8edebd0f-64ed-4221-9430-79627451d882,TR061622,Ankara - Törekent,Ankara,6,Sincan,Kent Çevresi-Sanayi,39.98375,32.57651,Kuzey İç Anadolu THM,2026-11-03,2026-11-26
-98a17be3-8c0f-419c-acc0-a31a77ed6859,TR062131,Ankara - Ulus,Ankara,6,Çankaya,Hava Kalitesi,39.94007,32.84992,Kuzey İç Anadolu THM,2026-11-03,2026-11-26
-eec16797-8c1b-400a-b54f-2ae953afc694,TR0601941,Ankara - Çankaya,Ankara,6,Çankaya,Hava Kalitesi,39.87106,32.8577,Kuzey İç Anadolu THM,2026-11-03,2026-11-26
-e7dc40a8-a1b2-44de-99bc-33770261e101,0106009,Ankara Yaşamkent,Ankara,6,Yenimahalle,,39.86171,32.63967,Kuzey İç Anadolu THM,2026-11-03,2026-11-26
-e4add9c8-61de-4aa3-b781-aa130e7d4c1f,TR060313,EMEP - Ankara Çubuk,Ankara,6,Çubuk,Hava Kalitesi,40.28978,33.01293,Kuzey İç Anadolu THM,2026-11-03,2026-11-26
-41c45b89-cc96-4378-be68-0a3d113fa324,TR070813,Antalya - Gazipaşa,Antalya,7,Gazipaşa,Kırsal,36.2811,32.28734,Güney İç Anadolu THM,2026-11-03,2026-11-26
-e710800e-41de-4c3d-ada8-6931b23d94da,TR070141,Antalya - Kepez,Antalya,7,Merkez,Hava Kalitesi,36.91489,30.70047,Güney İç Anadolu THM,2026-11-03,2026-11-26
-f4ef2c5c-ed19-434d-bd94-37d338994c44,TR070622,Antalya - Kumluca,Antalya,7,Kumluca,Kentsel-Sanayi,36.31771,30.27747,Güney İç Anadolu THM,2026-11-03,2026-11-26
-460a3f3c-0395-4372-8a58-c84837ab144d,TR080213,Artvin - Hopa,Artvin,8,Hopa,Hava Kalitesi,41.46797,41.49132,Doğu Anadolu THM,2026-11-03,2026-11-26
-9eddd8f1-cf1b-4284-aa41-a9b32d87c702,TR100141,Balıkesir,Balıkesir,10,Merkez,Hava Kalitesi,39.63919,27.89325,Marmara THM,2026-11-03,2026-11-26
-55adcc75-632c-4fcf-9310-96f727af7020,TR110141,Bilecik,Bilecik,11,Merkez,Isınma,40.14143,29.97781,Marmara THM,2026-11-03,2026-11-26
-73ab878a-0bd0-4104-b7d7-63a4acb2678a,TR110241,Bilecik - Bozüyük-MTHM,Bilecik,11,Bozüyük,Isınma,39.90406,30.05312,Marmara THM,2026-11-03,2026-11-26
-37ece370-b131-43d6-b6f0-aa080d8a1b2f,TR120141,Bingöl,Bingöl,12,Merkez,Hava Kalitesi,38.88632,40.50601,Güneydoğu Anadolu THM,2026-11-03,2026-11-26
-468cc0a0-b049-4da4-ba17-e392ef06eca7,TR130141,Bitlis,Bitlis,13,Merkez,Hava Kalitesi,38.4093,42.11125,Güneydoğu Anadolu THM,2026-11-03,2026-11-26
-29882680-c708-43f0-aaaa-0c15cb450fee,10020001,Bolu - Abant,Bolu,14,Mudurnu,Kırsal,40.60358,31.25938,Kuzey İç Anadolu THM,2026-11-03,2026-11-26
-954b562e-1c2e-49ae-804f-b284a56e5d52,TR140441,Bolu - Karaçayır Parkı,Bolu,14,Merkez,Hava Kalitesi,40.72639,31.60503,Kuzey İç Anadolu THM,2026-11-03,2026-11-26
-168b8c5b-f0a5-4a89-a3fc-303799bf23de,TR140331,Bolu - Kızılay Parkı,Bolu,14,Merkez,Kentsel-Trafik,40.73241,31.59944,Kuzey İç Anadolu THM,2026-11-03,2026-11-26
-220efbcd-5c23-411d-8a76-439c448c51c9,TR150141,Burdur,Burdur,15,Merkez,Hava Kalitesi,37.7221,30.29385,Güney İç Anadolu THM,2026-11-03,2026-11-26
-8c0447cf-a815-4811-868c-2ae7051f8d2f,TR160141,Bursa,Bursa,16,Nilüfer,Hava Kalitesi,40.21646,29.03531,Marmara THM,2026-11-03,2026-11-26
-6d7379b2-a240-4670-ab65-b04671c43373,TR160512,Bursa - Kültür Park-MTHM,Bursa,16,Yıldırım,Isınma,40.19574,29.04615,Marmara THM,2026-11-03,2026-11-26
-90e8d8b6-794c-4ce3-b432-60d2e1e2446d,Seyyar-06DV9980,Bursa - Nilüfer,Bursa,16,Nilüfer,Hava Kalitesi,40.18417,28.82899,Marmara THM,2026-11-03,2026-11-26
-7522614a-37ec-400d-a01a-13bfc58b2688,TR160613,Bursa - Uludağ Üniv.-MTHM,Bursa,16,Nilüfer,Isınma,40.22204,28.87621,Marmara THM,2026-11-03,2026-11-26
-45aeb0fb-adac-499a-90f2-53c34c905603,10010001,Bursa-Nilüfer,Bursa,16,Nilüfer,Hava Kalitesi,40.20992,28.96281,BURSA NİLÜFER BELEDİYE,2026-11-03,2026-11-26
-c5af5da0-cec1-4782-ac0a-7d7a85b5f0f1,TR170141,Çanakkale,Çanakkale,17,Merkez,Isınma,40.14157,26.39936,Marmara THM,2026-11-03,2026-11-26
-c63ac516-a633-4290-b1d5-5c225b96b367,10040001,Çanakkale - Biga İçdaş,Çanakkale,17,Biga,Hava Kalitesi,40.41729,27.10731,İÇDAŞ ÇELİK ENERJİ TERSANE VE ULAŞIM SAN. A.Ş. - BİGA ŞUBESİ,2026-11-17,2026-11-26
-1d21b76f-babc-4909-b6c6-ae581a724ba2,TR170313,Çanakkale - Lapseki-MTHM,Çanakkale,17,Lapseki,Kırsal,40.403,26.77067,Marmara THM,2026-11-03,2026-11-26
-adca6b11-c1f3-4a09-8f81-36d127177c07,TR180141,Çankırı,Çankırı,18,Merkez,Hava Kalitesi,40.59591,33.62433,Kuzey İç Anadolu THM,2026-11-03,2026-11-26
-3793c2a7-f347-4f36-a756-237aca1d5d12,TR190231,Çorum - Bahabey,Çorum,19,Merkez,Hava Kalitesi,40.54638,34.96757,Orta Karadeniz THM,2026-11-03,2026-11-26
-410c264c-4374-44e0-8290-12df7068725c,TR190321,Çorum - Mimar Sinan,Çorum,19,Merkez,Hava Kalitesi,40.5314,34.9443,Orta Karadeniz THM,2026-11-03,2026-11-26
-4a62ebde-999c-4113-97f4-14ed0d2328a3,0123089,Denizli - Honaz,Denizli,20,Honaz,Hava Kalitesi,37.75648,29.26476,Ege THM,2026-11-03,2026-11-26
-6f219e78-f84e-415f-95bf-f975ca45fc84,10010001,Denizli - Çivril,Denizli,20,Çivril,Hava Kalitesi,38.30092,29.73728,Ege THM,2026-11-03,2026-11-26
-bd874dd5-a88f-4659-a966-c9dbc643bf93,TR210141,Diyarbakır,Diyarbakır,21,Merkez,Hava Kalitesi,37.91537,40.22492,Güneydoğu Anadolu THM,2026-11-03,2026-11-26
-0f3b9672-170d-4f33-9549-03f02e3e38f0,11000001,Diyarbakır - Bağlar,Diyarbakır,21,Merkez,Kent Çevresi,37.9199,40.16691,Güneydoğu Anadolu THM,2026-11-03,2026-11-26
-800c71ba-9668-4df7-9cd4-226cbdb7445b,10020001,Diyarbakır - Diclekent,Diyarbakır,21,Merkez,Kentsel-Trafik,37.94301,40.18485,Güneydoğu Anadolu THM,2026-11-03,2026-11-26
-c7fe8c73-491d-4e7e-8d16-3632513295f3,11000001,Diyarbakır - Talaytepe,Diyarbakır,21,Merkez,-Kaynak-Sanayi,37.93509,40.13554,Güneydoğu Anadolu THM,2026-11-03,2026-11-26
-7e2c786d-3cdb-475a-bb48-caad2306a566,11000001,Diyarbakır - Üçkuyular,Diyarbakır,21,Merkez,-Kaynak-Sanayi,37.96457,40.14645,Güneydoğu Anadolu THM,2026-11-03,2026-11-26
-ed9a6e1d-1058-4b33-81bb-b5feb917e52e,TR220141,Edirne,Edirne,22,Merkez,Isınma,41.6579,26.58478,Marmara THM,2026-11-03,2026-11-26
-74c2cfa0-2131-4c24-88a8-d8f3732bab19,TR220213,Edirne - Karaağaç-MTHM,Edirne,22,Merkez,Kırsal,41.65914,26.53733,Marmara THM,2026-11-03,2026-11-26
-7457faa5-ccef-4f05-857a-57f809ae8c01,TR220341,Edirne - Keşan-MTHM,Edirne,22,Keşan,Isınma,40.8492,26.63712,Marmara THM,2026-11-03,2026-11-26
-c2cf2cc5-04df-47ed-9686-b658221526f2,TR230141,Elazığ,Elazığ,23,Merkez,Hava Kalitesi,38.67403,39.20852,Güneydoğu Anadolu THM,2026-11-03,2026-11-26
-4a5df435-f064-4031-b824-61c84f4aa309,TR240231,Erzincan - Trafik,Erzincan,24,Merkez,Hava Kalitesi,39.74645,39.49704,Doğu Anadolu THM,2026-11-03,2026-11-26
-1e811293-62fd-472b-a3e6-a883575444e8,TR250531,Erzurum - Taşhan,Erzurum,25,Merkez,Hava Kalitesi,39.90781,41.27307,Doğu Anadolu THM,2026-11-03,2026-11-26
-075baaeb-f534-4550-bf35-54e75c2a1d40,TR260231,Eskişehir - Cumhuriyet Bulvarı,Eskişehir,26,Merkez,Kentsel-Trafik,39.76635,30.52987,Kuzey İç Anadolu THM,2026-11-03,2026-11-26
-6c495e9e-06cd-4d20-b6b5-5aba277db99b,TR260322,Eskişehir - Metin Sonmez,Eskişehir,26,Merkez,Hava Kalitesi,39.71476,30.61754,Kuzey İç Anadolu THM,2026-11-03,2026-11-26
-0e65b889-6465-48f5-8108-247950f1d17f,TR260441,Eskişehir - Odunpazarı,Eskişehir,26,Merkez,Hava Kalitesi,39.75803,30.56384,Kuzey İç Anadolu THM,2026-11-03,2026-11-26
-492a7d0d-84f0-4501-ae15-a7b466d3fca8,TR260541,Eskişehir - Vişnepark,Eskişehir,26,Merkez,Hava Kalitesi,39.76485,30.49728,Kuzey İç Anadolu THM,2026-11-03,2026-11-26
+c31a108f-90bc-4426-b6bf-4a70239ab1b3,TR010341,Adana - Meteoroloji,Adana,1,Yüreğir,Hava Kalitesi,37.00418,35.34402,Akdeniz THM,2026-11-03,2026-11-27
+c75060c5-d28b-4071-899e-b7fd29eba457,TR010441,Adana - Valilik,Adana,1,Seyhan,Hava Kalitesi,36.99934,35.31272,Akdeniz THM,2026-11-03,2026-11-27
+468478b7-ace5-4bd3-b89a-a9c1c2e53080,TR010113,Adana - Çatalan,Adana,1,Karaisali,Hava Kalitesi,37.18635,35.26203,Akdeniz THM,2026-11-03,2026-11-27
+9a381f61-657b-42ea-be87-ae7216ae953a,TR010641,Adana - Çukurova,Adana,1,Seyhan,Isınma,37.04002,35.26998,Akdeniz THM,2026-11-03,2026-11-27
+2b79754a-c5fa-4f28-8d36-b1594372efdc,TR010541,Adana-Seyhan,Adana,1,Seyhan,Isınma,36.9719,35.31531,Akdeniz THM,2026-11-03,2026-11-27
+0ed2ff0e-9900-4e7b-ba64-c40e820104b2,TR010731,Adana-Turhan Cemal Beriker Bulvarı ,Adana,1,Seyhan,Kentsel-Trafik,36.99192,35.32605,Akdeniz THM,2026-11-03,2026-11-27
+a0798101-04dc-4964-8c00-487825b35fc1,TR010822,Adana-Yakapınar,Adana,1,Yüreğir,Kentsel-Sanayi,36.95784,35.60662,Akdeniz THM,2026-11-03,2026-11-27
+291d6758-cd2d-4bd3-bcb5-1280baf23a40,TR020141,Adıyaman,Adıyaman,2,Merkez,Hava Kalitesi,37.75511,38.27741,Güneydoğu Anadolu THM,2026-11-03,2026-11-27
+3b1e9930-2774-4b2b-977a-44bbc915df64,TR050431,Amasya - Şehzade,Amasya,5,Merkez,Hava Kalitesi,40.65721,35.83836,Orta Karadeniz THM,2026-11-03,2026-11-27
+251a7ea1-e3ff-4b2f-a4d2-1231118f83fa,TR060141,Ankara - Bahçelievler,Ankara,6,Çankaya,Hava Kalitesi,39.91836,32.82292,Kuzey İç Anadolu THM,2026-11-03,2026-11-27
+fcdb32a0-2456-457f-b312-415956e8e1e6,TR061041,Ankara - Batıkent,Ankara,6,Yenimahalle,Hava Kalitesi,39.95314,32.72698,Kuzey İç Anadolu THM,2026-11-03,2026-11-27
+0ef764db-fca4-437f-8db5-3ffba88a6073,TR060441,Ankara - Demetevler,Ankara,6,Yenimahalle,Hava Kalitesi,39.96775,32.79566,Kuzey İç Anadolu THM,2026-11-03,2026-11-27
+b6cee520-e791-43ad-8584-be4a6cdb89bc,TR061141,Ankara - Etimesgut,Ankara,6,Etimesgut,Hava Kalitesi,39.93982,32.64,Kuzey İç Anadolu THM,2026-11-03,2026-11-27
+a24eb747-acf0-479b-8308-153f0692c6e1,TR061241,Ankara - Etlik,Ankara,6,Yenimahalle,Hava Kalitesi,39.97386,32.82279,Kuzey İç Anadolu THM,2026-11-03,2026-11-27
+073ba16f-a576-45ee-b0cf-e56aa70f2253,TR060641,Ankara - Kayaş,Ankara,6,Mamak,Hava Kalitesi,39.9254,32.92675,Kuzey İç Anadolu THM,2026-11-03,2026-11-27
+c960495f-431d-43ef-a4a2-dc663214b73a,TR0602041,Ankara - Keçiören Sanatoryum,Ankara,6,Keçiören,Hava Kalitesi,39.99904,32.85606,Kuzey İç Anadolu THM,2026-11-03,2026-11-27
+ec35e67b-2f49-4568-add1-d82425656a53,TR061341,Ankara - Mamak,Ankara,6,Çankaya,Hava Kalitesi,39.91681,32.89397,Kuzey İç Anadolu THM,2026-11-03,2026-11-27
+4ef4bba3-8aeb-47ff-92ec-abea041e6001,TR061421,Ankara - Ostim,Ankara,6,Yenimahalle,Kentsel-Sanayi,39.98141,32.74405,Kuzey İç Anadolu THM,2026-11-03,2026-11-27
+733f07df-4743-4510-92b9-c5a6602a7f00,TR060941,Ankara - Sincan,Ankara,6,Sincan,Hava Kalitesi,39.95306,32.58173,Kuzey İç Anadolu THM,2026-11-03,2026-11-27
+6edbea5e-e575-4f89-9d7b-621c2e0c6c44,TR0601721,Ankara - Siteler,Ankara,6,Altındağ,Hava Kalitesi,39.96536,32.90723,Kuzey İç Anadolu THM,2026-11-03,2026-11-27
+ed5b48d0-14c4-47a4-8ad1-b5db53ae72c9,TR060831,Ankara - Sıhhıye,Ankara,6,Çankaya,Hava Kalitesi,39.92725,32.8594,Kuzey İç Anadolu THM,2026-11-03,2026-11-27
+8edebd0f-64ed-4221-9430-79627451d882,TR061622,Ankara - Törekent,Ankara,6,Sincan,Kent Çevresi-Sanayi,39.98375,32.57651,Kuzey İç Anadolu THM,2026-11-03,2026-11-27
+98a17be3-8c0f-419c-acc0-a31a77ed6859,TR062131,Ankara - Ulus,Ankara,6,Çankaya,Hava Kalitesi,39.94007,32.84992,Kuzey İç Anadolu THM,2026-11-03,2026-11-27
+eec16797-8c1b-400a-b54f-2ae953afc694,TR0601941,Ankara - Çankaya,Ankara,6,Çankaya,Hava Kalitesi,39.87106,32.8577,Kuzey İç Anadolu THM,2026-11-03,2026-11-27
+e7dc40a8-a1b2-44de-99bc-33770261e101,0106009,Ankara Yaşamkent,Ankara,6,Yenimahalle,,39.86171,32.63967,Kuzey İç Anadolu THM,2026-11-03,2026-11-27
+e4add9c8-61de-4aa3-b781-aa130e7d4c1f,TR060313,EMEP - Ankara Çubuk,Ankara,6,Çubuk,Hava Kalitesi,40.28978,33.01293,Kuzey İç Anadolu THM,2026-11-03,2026-11-27
+41c45b89-cc96-4378-be68-0a3d113fa324,TR070813,Antalya - Gazipaşa,Antalya,7,Gazipaşa,Kırsal,36.2811,32.28734,Güney İç Anadolu THM,2026-11-03,2026-11-27
+e710800e-41de-4c3d-ada8-6931b23d94da,TR070141,Antalya - Kepez,Antalya,7,Merkez,Hava Kalitesi,36.91489,30.70047,Güney İç Anadolu THM,2026-11-03,2026-11-27
+f4ef2c5c-ed19-434d-bd94-37d338994c44,TR070622,Antalya - Kumluca,Antalya,7,Kumluca,Kentsel-Sanayi,36.31771,30.27747,Güney İç Anadolu THM,2026-11-03,2026-11-27
+460a3f3c-0395-4372-8a58-c84837ab144d,TR080213,Artvin - Hopa,Artvin,8,Hopa,Hava Kalitesi,41.46797,41.49132,Doğu Anadolu THM,2026-11-03,2026-11-27
+9eddd8f1-cf1b-4284-aa41-a9b32d87c702,TR100141,Balıkesir,Balıkesir,10,Merkez,Hava Kalitesi,39.63919,27.89325,Marmara THM,2026-11-03,2026-11-27
+55adcc75-632c-4fcf-9310-96f727af7020,TR110141,Bilecik,Bilecik,11,Merkez,Isınma,40.14143,29.97781,Marmara THM,2026-11-03,2026-11-27
+73ab878a-0bd0-4104-b7d7-63a4acb2678a,TR110241,Bilecik - Bozüyük-MTHM,Bilecik,11,Bozüyük,Isınma,39.90406,30.05312,Marmara THM,2026-11-03,2026-11-27
+37ece370-b131-43d6-b6f0-aa080d8a1b2f,TR120141,Bingöl,Bingöl,12,Merkez,Hava Kalitesi,38.88632,40.50601,Güneydoğu Anadolu THM,2026-11-03,2026-11-27
+468cc0a0-b049-4da4-ba17-e392ef06eca7,TR130141,Bitlis,Bitlis,13,Merkez,Hava Kalitesi,38.4093,42.11125,Güneydoğu Anadolu THM,2026-11-03,2026-11-27
+29882680-c708-43f0-aaaa-0c15cb450fee,10020001,Bolu - Abant,Bolu,14,Mudurnu,Kırsal,40.60358,31.25938,Kuzey İç Anadolu THM,2026-11-03,2026-11-27
+954b562e-1c2e-49ae-804f-b284a56e5d52,TR140441,Bolu - Karaçayır Parkı,Bolu,14,Merkez,Hava Kalitesi,40.72639,31.60503,Kuzey İç Anadolu THM,2026-11-03,2026-11-27
+168b8c5b-f0a5-4a89-a3fc-303799bf23de,TR140331,Bolu - Kızılay Parkı,Bolu,14,Merkez,Kentsel-Trafik,40.73241,31.59944,Kuzey İç Anadolu THM,2026-11-03,2026-11-27
+220efbcd-5c23-411d-8a76-439c448c51c9,TR150141,Burdur,Burdur,15,Merkez,Hava Kalitesi,37.7221,30.29385,Güney İç Anadolu THM,2026-11-03,2026-11-27
+8c0447cf-a815-4811-868c-2ae7051f8d2f,TR160141,Bursa,Bursa,16,Nilüfer,Hava Kalitesi,40.21646,29.03531,Marmara THM,2026-11-03,2026-11-27
+6d7379b2-a240-4670-ab65-b04671c43373,TR160512,Bursa - Kültür Park-MTHM,Bursa,16,Yıldırım,Isınma,40.19574,29.04615,Marmara THM,2026-11-03,2026-11-27
+90e8d8b6-794c-4ce3-b432-60d2e1e2446d,Seyyar-06DV9980,Bursa - Nilüfer,Bursa,16,Nilüfer,Hava Kalitesi,40.18417,28.82899,Marmara THM,2026-11-03,2026-11-27
+7522614a-37ec-400d-a01a-13bfc58b2688,TR160613,Bursa - Uludağ Üniv.-MTHM,Bursa,16,Nilüfer,Isınma,40.22204,28.87621,Marmara THM,2026-11-03,2026-11-27
+45aeb0fb-adac-499a-90f2-53c34c905603,10010001,Bursa-Nilüfer,Bursa,16,Nilüfer,Hava Kalitesi,40.20992,28.96281,BURSA NİLÜFER BELEDİYE,2026-11-03,2026-11-27
+c5af5da0-cec1-4782-ac0a-7d7a85b5f0f1,TR170141,Çanakkale,Çanakkale,17,Merkez,Isınma,40.14157,26.39936,Marmara THM,2026-11-03,2026-11-27
+c63ac516-a633-4290-b1d5-5c225b96b367,10040001,Çanakkale - Biga İçdaş,Çanakkale,17,Biga,Hava Kalitesi,40.41729,27.10731,İÇDAŞ ÇELİK ENERJİ TERSANE VE ULAŞIM SAN. A.Ş. - BİGA ŞUBESİ,2026-11-17,2026-11-27
+1d21b76f-babc-4909-b6c6-ae581a724ba2,TR170313,Çanakkale - Lapseki-MTHM,Çanakkale,17,Lapseki,Kırsal,40.403,26.77067,Marmara THM,2026-11-03,2026-11-27
+adca6b11-c1f3-4a09-8f81-36d127177c07,TR180141,Çankırı,Çankırı,18,Merkez,Hava Kalitesi,40.59591,33.62433,Kuzey İç Anadolu THM,2026-11-03,2026-11-27
+3793c2a7-f347-4f36-a756-237aca1d5d12,TR190231,Çorum - Bahabey,Çorum,19,Merkez,Hava Kalitesi,40.54638,34.96757,Orta Karadeniz THM,2026-11-03,2026-11-27
+410c264c-4374-44e0-8290-12df7068725c,TR190321,Çorum - Mimar Sinan,Çorum,19,Merkez,Hava Kalitesi,40.5314,34.9443,Orta Karadeniz THM,2026-11-03,2026-11-27
+4a62ebde-999c-4113-97f4-14ed0d2328a3,0123089,Denizli - Honaz,Denizli,20,Honaz,Hava Kalitesi,37.75648,29.26476,Ege THM,2026-11-03,2026-11-27
+6f219e78-f84e-415f-95bf-f975ca45fc84,10010001,Denizli - Çivril,Denizli,20,Çivril,Hava Kalitesi,38.30092,29.73728,Ege THM,2026-11-03,2026-11-27
+bd874dd5-a88f-4659-a966-c9dbc643bf93,TR210141,Diyarbakır,Diyarbakır,21,Merkez,Hava Kalitesi,37.91537,40.22492,Güneydoğu Anadolu THM,2026-11-03,2026-11-27
+0f3b9672-170d-4f33-9549-03f02e3e38f0,11000001,Diyarbakır - Bağlar,Diyarbakır,21,Merkez,Kent Çevresi,37.9199,40.16691,Güneydoğu Anadolu THM,2026-11-03,2026-11-27
+800c71ba-9668-4df7-9cd4-226cbdb7445b,10020001,Diyarbakır - Diclekent,Diyarbakır,21,Merkez,Kentsel-Trafik,37.94301,40.18485,Güneydoğu Anadolu THM,2026-11-03,2026-11-27
+c7fe8c73-491d-4e7e-8d16-3632513295f3,11000001,Diyarbakır - Talaytepe,Diyarbakır,21,Merkez,-Kaynak-Sanayi,37.93509,40.13554,Güneydoğu Anadolu THM,2026-11-03,2026-11-27
+7e2c786d-3cdb-475a-bb48-caad2306a566,11000001,Diyarbakır - Üçkuyular,Diyarbakır,21,Merkez,-Kaynak-Sanayi,37.96457,40.14645,Güneydoğu Anadolu THM,2026-11-03,2026-11-27
+ed9a6e1d-1058-4b33-81bb-b5feb917e52e,TR220141,Edirne,Edirne,22,Merkez,Isınma,41.6579,26.58478,Marmara THM,2026-11-03,2026-11-27
+74c2cfa0-2131-4c24-88a8-d8f3732bab19,TR220213,Edirne - Karaağaç-MTHM,Edirne,22,Merkez,Kırsal,41.65914,26.53733,Marmara THM,2026-11-03,2026-11-27
+7457faa5-ccef-4f05-857a-57f809ae8c01,TR220341,Edirne - Keşan-MTHM,Edirne,22,Keşan,Isınma,40.8492,26.63712,Marmara THM,2026-11-03,2026-11-27
+c2cf2cc5-04df-47ed-9686-b658221526f2,TR230141,Elazığ,Elazığ,23,Merkez,Hava Kalitesi,38.67403,39.20852,Güneydoğu Anadolu THM,2026-11-03,2026-11-27
+4a5df435-f064-4031-b824-61c84f4aa309,TR240231,Erzincan - Trafik,Erzincan,24,Merkez,Hava Kalitesi,39.74645,39.49704,Doğu Anadolu THM,2026-11-03,2026-11-27
+1e811293-62fd-472b-a3e6-a883575444e8,TR250531,Erzurum - Taşhan,Erzurum,25,Merkez,Hava Kalitesi,39.90781,41.27307,Doğu Anadolu THM,2026-11-03,2026-11-27
+075baaeb-f534-4550-bf35-54e75c2a1d40,TR260231,Eskişehir - Cumhuriyet Bulvarı,Eskişehir,26,Merkez,Kentsel-Trafik,39.76635,30.52987,Kuzey İç Anadolu THM,2026-11-03,2026-11-27
+6c495e9e-06cd-4d20-b6b5-5aba277db99b,TR260322,Eskişehir - Metin Sonmez,Eskişehir,26,Merkez,Hava Kalitesi,39.71476,30.61754,Kuzey İç Anadolu THM,2026-11-03,2026-11-27
+0e65b889-6465-48f5-8108-247950f1d17f,TR260441,Eskişehir - Odunpazarı,Eskişehir,26,Merkez,Hava Kalitesi,39.75803,30.56384,Kuzey İç Anadolu THM,2026-11-03,2026-11-27
+492a7d0d-84f0-4501-ae15-a7b466d3fca8,TR260541,Eskişehir - Vişnepark,Eskişehir,26,Merkez,Hava Kalitesi,39.76485,30.49728,Kuzey İç Anadolu THM,2026-11-03,2026-11-27
 4959a479-6cc2-4dd3-84f9-6a906f7c3ed1,TR270141,Gaziantep,Gaziantep,27,Şehitkamil,Hava Kalitesi,37.05856,37.35081,Akdeniz THM,2026-11-03,2026-11-06
-207c6f14-8243-4a49-b970-367cb0e93b96,10230001,Gaziantep - Beydilli,Gaziantep,27,Şahinbey,Isınma,37.04438,37.39556,Akdeniz THM,2026-11-03,2026-11-26
-e75cdf48-82f9-4692-afe5-46ab3f7fbbe9,10010001,Gaziantep - Fevzi Çakmak,Gaziantep,27,Şehitkamil,Hava Kalitesi,37.07801,37.35457,Akdeniz THM,2026-11-03,2026-11-26
-ffd0ab04-19ab-4245-b5d4-9fc005f0a335,10010001,Gaziantep - Gaski D6,Gaziantep,27,Şahinbey,Hava Kalitesi,37.04711,37.35913,Akdeniz THM,2026-11-03,2026-11-26
-69040255-723b-4eef-969a-7d1c95e81560,10010001,Gaziantep - Nizip,Gaziantep,27,Nizip,Hava Kalitesi,37.00995,37.80398,Akdeniz THM,2026-11-03,2026-11-26
-56b75be4-b4cb-49d2-b126-4bb3974469c1,0127622,Gaziantep-Atapark ,Gaziantep,27,Şehitkamil,Kent Çevresi-Sanayi,37.08866,37.42586,Akdeniz THM,2026-11-03,2026-11-26
-0dfb1fb4-230e-417d-92cb-e354d8495ef9,TR280241,Giresun - Gemilercekeği,Giresun,28,Merkez,Hava Kalitesi,40.9145,38.39873,Orta Karadeniz THM,2026-11-03,2026-11-26
-b358570b-ad24-4750-b667-e8c26f115a21,TR300141,Hakkari,Hakkari,30,Merkez,Hava Kalitesi,37.57435,43.73882,Güneydoğu Anadolu THM,2026-11-03,2026-11-26
-ae454df6-b450-44e5-aa51-d0e0f4481edf,TR310222,Hatay - İskenderun,Hatay,31,İskenderun,Hava Kalitesi,36.71397,36.22385,Akdeniz THM,2026-11-03,2026-11-26
-78260ef6-a391-44c9-bf25-d1ad45a47135,10230001,Hatay - İskenderun Merkez,Hatay,31,İskenderun,Isınma,36.57976,36.16682,Akdeniz THM,2026-11-03,2026-11-26
-19ecf277-cd82-4391-ba82-be0f522c1c12,TR320341,Isparta,Isparta,32,Merkez,Hava Kalitesi,37.76025,30.57941,Güney İç Anadolu THM,2026-11-03,2026-11-26
-69cf97d8-8d6b-4fe4-b2c8-db9f2984f8e3,10230001,Mersin - Akdeniz,Mersin,33,Merkez,Isınma,36.82854,34.64099,Akdeniz THM,2026-11-03,2026-11-26
-5b6adad8-4f3e-4372-ba40-d8f34589dfb3,10030001,Mersin - Huzurkent,Mersin,33,Tarsus,Kentsel-Sanayi,36.87659,34.81422,Akdeniz THM,2026-11-03,2026-11-26
-65356773-a215-4e00-9dfb-b0de069fd0c8,10230001,Mersin - Tarsus,Mersin,33,Tarsus,Isınma,36.91172,34.88758,Akdeniz THM,2026-11-03,2026-11-26
-70eab846-760b-4ade-9c45-9f70626ed71b,,Mersin - Tasucu,Mersin,33,Silifke,Hava Kalitesi,36.30297,33.91819,Akdeniz THM,2026-11-03,2026-11-26
-4a98c392-a772-4c64-9cca-9c859e24736a,10010001,Mersin - Toroslar,Mersin,33,Merkez,Isınma,36.82865,34.59911,Akdeniz THM,2026-11-03,2026-11-26
-cae3b64c-17b2-4a84-a18e-8a837058cb2e,TR330841,Mersin - Yenişehir,Mersin,33,Merkez,Hava Kalitesi,36.77372,34.558,Akdeniz THM,2026-11-03,2026-11-26
-b0d9c5fb-a44c-418e-bd05-b5640e83a3a5,10010001,Mersin - İstiklal Cad.,Mersin,33,Merkez,Kentsel-Trafik,36.79607,34.62369,Akdeniz THM,2026-11-03,2026-11-26
-cb4cd1c2-b55b-484f-ac7a-505369405d00,TR341431,İstanbul - Aksaray,İstanbul,34,Fatih,Hava Kalitesi,41.01441,28.95395,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-26
-06cf354f-c56f-4375-a6c5-bb3d5e7d649e,TR341541,İstanbul - Alibeyköy,İstanbul,34,Kağıthane,Hava Kalitesi,41.05738,28.94612,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-26
-7ba8a159-e8bc-4225-b5e4-ccf8bde97aa5,TR343611,İstanbul - Arnavutköy,İstanbul,34,Arnavutkoy,Hava Kalitesi,41.22092,28.70756,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-26
+207c6f14-8243-4a49-b970-367cb0e93b96,10230001,Gaziantep - Beydilli,Gaziantep,27,Şahinbey,Isınma,37.04438,37.39556,Akdeniz THM,2026-11-03,2026-11-27
+e75cdf48-82f9-4692-afe5-46ab3f7fbbe9,10010001,Gaziantep - Fevzi Çakmak,Gaziantep,27,Şehitkamil,Hava Kalitesi,37.07801,37.35457,Akdeniz THM,2026-11-03,2026-11-27
+ffd0ab04-19ab-4245-b5d4-9fc005f0a335,10010001,Gaziantep - Gaski D6,Gaziantep,27,Şahinbey,Hava Kalitesi,37.04711,37.35913,Akdeniz THM,2026-11-03,2026-11-27
+69040255-723b-4eef-969a-7d1c95e81560,10010001,Gaziantep - Nizip,Gaziantep,27,Nizip,Hava Kalitesi,37.00995,37.80398,Akdeniz THM,2026-11-03,2026-11-27
+56b75be4-b4cb-49d2-b126-4bb3974469c1,0127622,Gaziantep-Atapark ,Gaziantep,27,Şehitkamil,Kent Çevresi-Sanayi,37.08866,37.42586,Akdeniz THM,2026-11-03,2026-11-27
+0dfb1fb4-230e-417d-92cb-e354d8495ef9,TR280241,Giresun - Gemilercekeği,Giresun,28,Merkez,Hava Kalitesi,40.9145,38.39873,Orta Karadeniz THM,2026-11-03,2026-11-27
+b358570b-ad24-4750-b667-e8c26f115a21,TR300141,Hakkari,Hakkari,30,Merkez,Hava Kalitesi,37.57435,43.73882,Güneydoğu Anadolu THM,2026-11-03,2026-11-27
+ae454df6-b450-44e5-aa51-d0e0f4481edf,TR310222,Hatay - İskenderun,Hatay,31,İskenderun,Hava Kalitesi,36.71397,36.22385,Akdeniz THM,2026-11-03,2026-11-27
+78260ef6-a391-44c9-bf25-d1ad45a47135,10230001,Hatay - İskenderun Merkez,Hatay,31,İskenderun,Isınma,36.57976,36.16682,Akdeniz THM,2026-11-03,2026-11-27
+19ecf277-cd82-4391-ba82-be0f522c1c12,TR320341,Isparta,Isparta,32,Merkez,Hava Kalitesi,37.76025,30.57941,Güney İç Anadolu THM,2026-11-03,2026-11-27
+69cf97d8-8d6b-4fe4-b2c8-db9f2984f8e3,10230001,Mersin - Akdeniz,Mersin,33,Merkez,Isınma,36.82854,34.64099,Akdeniz THM,2026-11-03,2026-11-27
+5b6adad8-4f3e-4372-ba40-d8f34589dfb3,10030001,Mersin - Huzurkent,Mersin,33,Tarsus,Kentsel-Sanayi,36.87659,34.81422,Akdeniz THM,2026-11-03,2026-11-27
+65356773-a215-4e00-9dfb-b0de069fd0c8,10230001,Mersin - Tarsus,Mersin,33,Tarsus,Isınma,36.91172,34.88758,Akdeniz THM,2026-11-03,2026-11-27
+70eab846-760b-4ade-9c45-9f70626ed71b,,Mersin - Tasucu,Mersin,33,Silifke,Hava Kalitesi,36.30297,33.91819,Akdeniz THM,2026-11-03,2026-11-27
+4a98c392-a772-4c64-9cca-9c859e24736a,10010001,Mersin - Toroslar,Mersin,33,Merkez,Isınma,36.82865,34.59911,Akdeniz THM,2026-11-03,2026-11-27
+cae3b64c-17b2-4a84-a18e-8a837058cb2e,TR330841,Mersin - Yenişehir,Mersin,33,Merkez,Hava Kalitesi,36.77372,34.558,Akdeniz THM,2026-11-03,2026-11-27
+b0d9c5fb-a44c-418e-bd05-b5640e83a3a5,10010001,Mersin - İstiklal Cad.,Mersin,33,Merkez,Kentsel-Trafik,36.79607,34.62369,Akdeniz THM,2026-11-03,2026-11-27
+cb4cd1c2-b55b-484f-ac7a-505369405d00,TR341431,İstanbul - Aksaray,İstanbul,34,Fatih,Hava Kalitesi,41.01441,28.95395,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-27
+06cf354f-c56f-4375-a6c5-bb3d5e7d649e,TR341541,İstanbul - Alibeyköy,İstanbul,34,Kağıthane,Hava Kalitesi,41.05738,28.94612,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-27
+7ba8a159-e8bc-4225-b5e4-ccf8bde97aa5,TR343611,İstanbul - Arnavutköy,İstanbul,34,Arnavutkoy,Hava Kalitesi,41.22092,28.70756,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-27
 4c41948b-232e-472c-ada9-8f4d575c56ac,TR342841,İstanbul - Avcılar,İstanbul,34,Avcılar,Hava Kalitesi,40.98727,28.73043,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-19
-573c0ee4-9a0e-4ad9-aa2f-860870932189,TR343741,İstanbul - Bağcılar,İstanbul,34,Bağcılar,Hava Kalitesi,41.03275,28.84295,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-26
-41f90c1f-570d-46cd-9beb-493d9162639a,0134039,İstanbul - Beylikdüzü,İstanbul,34,Esenler,Hava Kalitesi,40.97165,28.61278,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-26
-179cd958-11aa-4e7a-8fa4-6eb2c852c2f6,TR341641,İstanbul - Beşiktaş,İstanbul,34,Beşiktaş,Hava Kalitesi,41.05201,29.0094,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-26
-d6838e88-162e-4394-bd3c-efb9de513ac6,TR341713,İstanbul - Büyükada,İstanbul,34,Adalar,Hava Kalitesi,40.85215,29.11804,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-26
-914b525e-f275-41e1-b45b-118ada8f08c3,TR341841,İstanbul - Esenler,İstanbul,34,Esenler,Hava Kalitesi,41.03687,28.88807,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-26
-08fa75a5-277b-4562-bf51-be549c9a25a2,TR341931,İstanbul - Göztepe D 100,İstanbul,34,Kadıköy,Hava Kalitesi,40.99336,29.07021,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-26
-ecafeb15-905e-4257-a25a-72accf287e2a,TR342041,İstanbul - Kadıköy,İstanbul,34,Kadıköy,Hava Kalitesi,40.99081,29.03337,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-26
-61c3752d-2ff9-4d46-bc84-d7f303fa92e0,TR342213,İstanbul - Kandilli,İstanbul,34,Üsküdar,Hava Kalitesi,41.06248,29.05825,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-26
-9e389c7a-45bd-440a-ba2f-db9c60c65a82,TR342341,İstanbul - Kartal,İstanbul,34,Pendik,Hava Kalitesi,40.91104,29.18305,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-26
+573c0ee4-9a0e-4ad9-aa2f-860870932189,TR343741,İstanbul - Bağcılar,İstanbul,34,Bağcılar,Hava Kalitesi,41.03275,28.84295,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-27
+41f90c1f-570d-46cd-9beb-493d9162639a,0134039,İstanbul - Beylikdüzü,İstanbul,34,Esenler,Hava Kalitesi,40.97165,28.61278,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-27
+179cd958-11aa-4e7a-8fa4-6eb2c852c2f6,TR341641,İstanbul - Beşiktaş,İstanbul,34,Beşiktaş,Hava Kalitesi,41.05201,29.0094,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-27
+d6838e88-162e-4394-bd3c-efb9de513ac6,TR341713,İstanbul - Büyükada,İstanbul,34,Adalar,Hava Kalitesi,40.85215,29.11804,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-27
+914b525e-f275-41e1-b45b-118ada8f08c3,TR341841,İstanbul - Esenler,İstanbul,34,Esenler,Hava Kalitesi,41.03687,28.88807,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-27
+08fa75a5-277b-4562-bf51-be549c9a25a2,TR341931,İstanbul - Göztepe D 100,İstanbul,34,Kadıköy,Hava Kalitesi,40.99336,29.07021,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-27
+ecafeb15-905e-4257-a25a-72accf287e2a,TR342041,İstanbul - Kadıköy,İstanbul,34,Kadıköy,Hava Kalitesi,40.99081,29.03337,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-27
+61c3752d-2ff9-4d46-bc84-d7f303fa92e0,TR342213,İstanbul - Kandilli,İstanbul,34,Üsküdar,Hava Kalitesi,41.06248,29.05825,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-27
+9e389c7a-45bd-440a-ba2f-db9c60c65a82,TR342341,İstanbul - Kartal,İstanbul,34,Pendik,Hava Kalitesi,40.91104,29.18305,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-27
 2f8ab9f0-eb04-4d62-bf67-d165cb015035,TR342141,İstanbul - Kağıthane,İstanbul,34,Kağıthane,Hava Kalitesi,41.0785,28.97079,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-26
-d9f15eae-128a-4a71-ad30-141b4728a520,TR340341,İstanbul - Kağıthane-MTHM,İstanbul,34,Kağıthane,Isınma,41.09235,28.97482,Marmara THM,2026-11-03,2026-11-26
-8cff7d4d-a5be-4e74-93ff-e75437639604,TR343041,İstanbul - Kumköy,İstanbul,34,Sarıyer,Hava Kalitesi,41.25044,29.03829,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-26
-6b7a9840-1e13-4045-a79d-0f881c4852ad,TR343131,İstanbul - Maslak,İstanbul,34,Sarıyer,Hava Kalitesi,41.10007,29.0245,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-26
-8e79f4d4-95e2-43db-ab78-59921013af3d,TR343841,İstanbul - Sancaktepe,İstanbul,34,Sancaktepe,Hava Kalitesi,41.00322,29.22594,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-26
-ed81dc69-345a-479d-8b9b-e82db11b276e,TR342441,İstanbul - Sarıyer,İstanbul,34,Sarıyer,Hava Kalitesi,41.12792,29.0485,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-26
-2054f684-6a42-438f-ae03-bb90445e71e6,TR343241,İstanbul - Selimiye,İstanbul,34,Kadıköy,Hava Kalitesi,41.00376,29.027,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-26
-7a8fdd1a-2aae-4128-a1b6-1064d760d108,TR340611,İstanbul - Silivri-MTHM,İstanbul,34,Silivri,Isınma,41.08926,28.25552,Marmara THM,2026-11-03,2026-11-26
-593780cc-69d7-417c-8089-8672c509bc0b,10100001,İstanbul - Sultangazi 1,İstanbul,34,Sultangazi,Hava Kalitesi,41.10914,28.89435,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-24
-3cb2525d-15e6-48b7-84d2-df139b14e991,10080001,İstanbul - Sultangazi 2,İstanbul,34,Sultangazi,Hava Kalitesi,41.10773,28.87438,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-26
-aa68d3ab-2188-4821-869d-a528b61a05c6,10100001,İstanbul - Sultangazi 3,İstanbul,34,Sultangazi,Hava Kalitesi,41.11442,28.85193,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-26
-575665d7-e92d-4a1c-bc0d-ea9d5dcc5ed9,TR340841,İstanbul - Sultangazi-MTHM,İstanbul,34,Sultangazi,Isınma,41.10771,28.87432,Marmara THM,2026-11-03,2026-11-26
-3de006fe-6252-4f09-8a08-4539ed5cb43c,TR343941,İstanbul - Tuzla,İstanbul,34,Tuzla,Hava Kalitesi,40.84312,29.30262,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-26
-6929a9ca-977d-4cb3-b1b5-26b95f4d4515,TR342741,İstanbul - Yenibosna,İstanbul,34,Bakırköy,Hava Kalitesi,40.99738,28.82704,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-26
-b9709aaf-454d-4e41-af8c-ddc4302b1014,TR342931,İstanbul - Çatladıkapı,İstanbul,34,Fatih,Hava Kalitesi,41.00233,28.97512,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-26
-377e1216-bcc7-42c0-aad8-4d5b3d602b78,TR342541,İstanbul - Ümraniye,İstanbul,34,Ümraniye,Hava Kalitesi,41.01269,29.16181,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-26
-c83902d3-a077-48aa-83b5-046ce9d13027,TR341131,İstanbul - Ümraniye-MTHM,İstanbul,34,Ümraniye,Kentsel-Trafik,41.02444,29.09975,Marmara THM,2026-11-03,2026-11-26
-a30101a6-349c-4f0d-b965-a68f2c6781e9,TR342641,İstanbul - Üsküdar,İstanbul,34,Kadıköy,Hava Kalitesi,41.01426,29.02469,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-26
-fcb6d9b7-11f6-428d-b251-35fc5d89195f,TR350341,İzmir - Alsancak İBB,İzmir,35,Konak,Hava Kalitesi,38.43222,27.14444,İZMİR BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-26
-ca22007c-ffb4-40a3-adf4-2fb3ae5bf716,TR350441,İzmir - Bayraklı İBB,İzmir,35,Karşıyaka,Hava Kalitesi,38.46222,27.16667,İZMİR BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-26
-00b1dcdb-702d-459b-8399-30548d8164ec,TR350541,İzmir - Bornova,İzmir,35,Bornova,Kentsel-Sanayi,38.45462,27.23111,Ege THM,2026-11-03,2026-11-26
-5095a053-4859-498f-88e9-bae31c596f7f,10010001,İzmir - Bornova İBB,İzmir,35,Bornova,Hava Kalitesi,38.46917,27.22139,İZMİR BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-26
-332d897b-81d5-427c-a278-6b9b841da3d5,TR350741,İzmir - Güzelyalı İBB,İzmir,35,Balçova,Hava Kalitesi,38.39583,27.08278,İZMİR BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-26
-1eb466d5-8d74-495e-8b22-637febcdc5c2,10010001,İzmir - Karşıyaka İBB,İzmir,35,Karşıyaka,Hava Kalitesi,38.45417,27.10972,İZMİR BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-26
-862bd2b3-3434-4a69-8b7a-1b9dccdec63c,10030001,İzmir - Konak,İzmir,35,Konak,Hava Kalitesi,38.42389,27.14073,Ege THM,2026-11-03,2026-11-26
-488a7170-05ff-4366-ba4b-a86d27d262e3,10040001,İzmir - Yenifoça,İzmir,35,Foça,Hava Kalitesi,38.74473,26.83169,Ege THM,2026-11-03,2026-11-26
-4f00873d-af5c-49bf-97ea-b495a29e4271,TR350941,İzmir - Şirinyer İBB,İzmir,35,Konak,Hava Kalitesi,38.3825,27.14833,İZMİR BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-26
-6b07d8e7-0de7-47ed-a215-f1547dfb1151,TR360231,Kars - Trafik,Kars,36,Merkez,Hava Kalitesi,40.60095,43.09684,Doğu Anadolu THM,2026-11-03,2026-11-26
-3250d2a7-df2b-40ac-9137-96b321454a20,10020001,Kastamonu - Azdavay,Kastamonu,37,Azdavay,Kırsal,41.68594,33.50451,Kuzey İç Anadolu THM,2026-11-03,2026-11-26
-c3892899-860e-4f2a-ac46-308590fd3d8b,TR380321,Kayseri - OSB,Kayseri,38,Melikgazi,Hava Kalitesi,38.74046,35.3754,Güney İç Anadolu THM,2026-11-03,2026-11-26
-c0eb93c9-d231-438b-a2b6-9fb9bf37247d,TR390141,Kırklareli,Kırklareli,39,Merkez,Isınma,41.72443,27.21483,Marmara THM,2026-11-03,2026-11-26
-918ea8ac-f47d-465d-b82e-9489844514c2,TR400141,Kırşehir,Kırşehir,40,Merkez,Hava Kalitesi,39.13812,34.16824,Kuzey İç Anadolu THM,2026-11-03,2026-11-26
-15658d72-2e89-442c-b167-9d742a8f6348,TR410141,Kocaeli,Kocaeli,41,Merkez,Isınma,40.76452,29.94931,Marmara THM,2026-11-03,2026-11-26
-59f64c81-69da-4750-83b4-cdd5a89fabda,TR4101322,Kocaeli - Gebze OSB - MTHM,Kocaeli,41,Gebze,Kentsel-Sanayi,40.84578,29.42518,Marmara THM,2026-11-03,2026-11-26
-0e7f071a-744a-46e1-ba0c-fc85cd589f58,TR410741,Kocaeli - Gölcük-MTHM,Kocaeli,41,Gölcük,Isınma,40.72636,29.79529,Marmara THM,2026-11-03,2026-11-26
-b7a0d184-331c-4ab0-b2c3-d80bac39db0f,TR410913,Kocaeli - Kandıra-MTHM,Kocaeli,41,Kandıra,Kırsal,41.13102,30.00665,Marmara THM,2026-11-03,2026-11-26
-b046ee76-3503-4751-8d22-0746a7e554c7,TR411122,Kocaeli - Körfez-MTHM,Kocaeli,41,Merkez,Kentsel-Sanayi,40.7461,29.78891,Marmara THM,2026-11-03,2026-11-26
-db3099d9-3b4b-492c-929d-3971fa0ccd42,TR421341,Konya - Karkent,Konya,42,Karatay,Hava Kalitesi,37.89985,32.52888,Güney İç Anadolu THM,2026-11-03,2026-11-26
-d216d40e-e569-4397-9e82-3cd4bd881636,TR421113,Konya - Sarayönü,Konya,42,Sarayönü,Kırsal,38.49411,32.45754,Güney İç Anadolu THM,2026-11-03,2026-11-26
-248d338b-6f5b-4492-b805-e46fb2528e4d,10010001,Konya - Trafik,Konya,42,Selçuklu,Kentsel-Trafik,37.88831,32.49359,Güney İç Anadolu THM,2026-11-03,2026-11-26
-527475d6-66f5-4023-8b97-f60ff4557121,10000001,Konya-Erenköy-Belediye,Konya,42,Selçuklu,Hava Kalitesi,37.9068,32.46001,KONYA BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-26
-81ad3847-bdfd-4520-be48-4fde44a7e97d,TR420341,Konya-Karatay (Sunaypark),Konya,42,Karatay,Isınma,37.84449,32.51334,Güney İç Anadolu THM,2026-11-03,2026-11-26
-56662403-7c58-42f8-929e-911cca9e99fe,10010001,Konya-Karatay-Belediye,Konya,42,Selçuklu,Hava Kalitesi,37.86819,32.51631,KONYA BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-26
-d07cf4db-1548-4a41-b1f4-f267ca47df62,TR430131,Kütahya - Atatürk Bulvarı,Kütahya,43,Merkez,Hava Kalitesi,39.42359,29.98878,Kuzey İç Anadolu THM,2026-11-03,2026-11-26
-f749f9d3-6815-4b0f-89f7-763b836131f9,TR430241,Kütahya - Heymeana Cad.,Kütahya,43,Merkez,Hava Kalitesi,39.41188,30.00862,Kuzey İç Anadolu THM,2026-11-03,2026-11-26
-b7121624-b3a3-41af-8485-49bc60fe13bc,TR430341,Kütahya - Kentpark,Kütahya,43,Merkez,Hava Kalitesi,39.42818,29.96981,Kuzey İç Anadolu THM,2026-11-03,2026-11-26
-1471766a-b827-44de-be15-a0e452e12874,TR430441,Kütahya - Tavşanlı,Kütahya,43,Tavşanlı,Hava Kalitesi,39.5421,29.49229,Kuzey İç Anadolu THM,2026-11-03,2026-11-26
-55268802-e8d7-4665-b063-05502db18cc3,TR440141,Malatya,Malatya,44,Merkez,Hava Kalitesi,38.34975,38.34108,Güneydoğu Anadolu THM,2026-11-03,2026-11-26
-bc2deba2-f0b0-4faf-a06f-8a342e0a6b2b,10020001,Manisa - Alaşehir,Manisa,45,Alaşehir,Hava Kalitesi,38.41736,28.50702,Ege THM,2026-11-03,2026-11-26
-b3b86485-67c0-4bf1-8226-1b4d29a9dfe2,TR450241,Manisa - Soma,Manisa,45,Soma,Hava Kalitesi,39.18228,27.61273,Ege THM,2026-11-03,2026-11-26
-3c40490a-406a-424d-a199-5373212955dd,TR460241,Kahramanmaraş - Elbistan,Kahramanmaraş,46,Elbistan,Hava Kalitesi,38.20367,37.19817,Akdeniz THM,2026-11-03,2026-11-26
-d93f8472-8b36-4854-ac7e-ffdd42f4a254,TR470141,Mardin,Mardin,47,Kızıltepe,Hava Kalitesi,37.31641,40.72707,Güneydoğu Anadolu THM,2026-11-03,2026-11-26
-ef5c7f43-a7ff-46a0-8e48-293a6b9f5a88,TR490141,Muş,Muş,49,Merkez,Hava Kalitesi,38.74172,41.50577,Güneydoğu Anadolu THM,2026-11-03,2026-11-26
-dfabaef6-2ef2-43cf-b12f-92ab0a6c3ec3,TR510341,Niğde,Niğde,51,Merkez,Hava Kalitesi,37.96839,34.68558,Güney İç Anadolu THM,2026-11-03,2026-11-26
-2cdec331-2c7c-4c98-b7a1-ccae22b5b8e3,TR520341,Ordu - Karşıyaka,Ordu,52,Merkez,Hava Kalitesi,40.97377,37.90764,Orta Karadeniz THM,2026-11-03,2026-11-26
-f876d75d-2deb-45d0-aea8-81527f471dcc,TR530213,Rize - Ardeşen,Rize,53,Ardeşen,Hava Kalitesi,41.12743,41.04724,Doğu Anadolu THM,2026-11-03,2026-11-26
-71c5c671-f4a0-4cb6-8986-941945e73ba6,TR540141,Sakarya,Sakarya,54,Merkez,Kentsel-Trafik,40.76699,30.39386,Marmara THM,2026-11-03,2026-11-26
-c199d715-4d05-497e-be36-035503b29407,TR540422,Sakarya - Hendek OSB - MTHM,Sakarya,54,Akyazı,Kentsel-Sanayi,40.76313,30.64859,Marmara THM,2026-11-03,2026-11-26
-31898e1e-8605-4529-a7ca-97fd52f989b3,TR540331,Sakarya - Ozanlar - MTHM,Sakarya,54,Merkez,Isınma,40.79076,30.39712,Marmara THM,2026-11-03,2026-11-26
-c6364fd7-0dc9-41b2-a465-8e41dc2578c9,TR550241,Samsun - Atakum,Samsun,55,Atakum,Hava Kalitesi,41.32548,36.29664,Orta Karadeniz THM,2026-11-03,2026-11-26
-38c9f703-bdbb-43bf-ae0e-e51384bbd31e,TR550631,Samsun - Yüzüncüyıl,Samsun,55,Merkez,Hava Kalitesi,41.29091,36.32834,Orta Karadeniz THM,2026-11-03,2026-11-26
-452a017b-77b6-4e51-9589-eb0416ab2c9a,TR560141,Siirt,Siirt,56,Merkez,Hava Kalitesi,37.93197,41.9351,Güneydoğu Anadolu THM,2026-11-03,2026-11-26
-a02766c5-1afe-40b5-b323-55f86d79e89a,TR580141,Sivas - Başöğretmen,Sivas,58,Merkez,Hava Kalitesi,39.74865,37.0258,Orta Karadeniz THM,2026-11-03,2026-11-26
-0cb00e22-7298-4a0e-8227-5b87329d592a,TR580341,Sivas - Meteoroloji,Sivas,58,Merkez,Hava Kalitesi,39.74375,37.00173,Orta Karadeniz THM,2026-11-03,2026-11-26
-c2c404d6-4e2e-43f3-94d7-9a6813432426,TR580231,Sivas - İstasyonkavşağı,Sivas,58,Merkez,Hava Kalitesi,39.7473,37.01333,Orta Karadeniz THM,2026-11-03,2026-11-26
-d80457d6-c4ac-4f6a-ad97-5555b2ddb67f,TR590141,Tekirdağ,Tekirdağ,59,Merkez,Kent Çevresi-Trafik,40.97093,27.49954,Marmara THM,2026-11-03,2026-11-26
-416f2d64-7c04-4b18-af2f-cb2d42a75d0f,TR590341,Tekirdağ - Çerkezköy - MTHM,Tekirdağ,59,Çerkezköy,Kentsel-Sanayi,41.31835,27.98015,Marmara THM,2026-11-03,2026-11-26
-d3359315-e62c-4d26-aecf-ed5d7e352e33,TR590522,Tekirdağ - Çorlu OSB - MTHM,Tekirdağ,59,Çorlu,Kentsel-Sanayi,41.18073,27.81543,Marmara THM,2026-11-03,2026-11-26
-29125b03-49f3-46eb-bf3a-35a6fa844d6f,TR600331,Tokat - Meydan,Tokat,60,Merkez,Hava Kalitesi,40.31833,36.55194,Orta Karadeniz THM,2026-11-03,2026-11-26
-56d322ed-3bea-466c-a701-16eca2124ef2,TR610341,Trabzon - Beşirli,Trabzon,61,Merkez,Hava Kalitesi,40.9944,39.66786,Doğu Anadolu THM,2026-11-03,2026-11-26
-581f18fd-cabd-42eb-9f87-fcfb94a0534e,TR0110A,Tunceli,Tunceli,62,Merkez,Hava Kalitesi,39.10953,39.54447,Güneydoğu Anadolu THM,2026-11-03,2026-11-26
-9d4d9186-79b9-4667-b34c-c228561dab43,TR0111A,Şanlıurfa,Şanlıurfa,63,Merkez,Hava Kalitesi,37.16039,38.78687,Güneydoğu Anadolu THM,2026-11-03,2026-11-26
-fab9711d-de3e-4326-80ec-4e0d19af5bf3,11000001,Şanlıurfa - Eyyübiye,Şanlıurfa,63,Merkez,Kentsel,37.11287,38.80927,Güneydoğu Anadolu THM,2026-11-03,2026-11-26
-901c1e19-12e9-4f0e-a7cb-d099af4ff7b3,11000001,Şanlıurfa - Karaköprü,Şanlıurfa,63,Merkez,Kentsel,37.2022,38.81172,Güneydoğu Anadolu THM,2026-11-03,2026-11-26
-1391e55f-9df5-429c-b2fb-ed4a8e44a73f,TR0112A,Uşak,Uşak,64,Merkez,Kentsel-Trafik,38.66395,29.40451,Ege THM,2026-11-03,2026-11-26
-99cf689e-1e80-4b00-a641-b37eb694014a,10020001,Uşak-Trafik,Uşak,64,Merkez,Kentsel-Trafik,38.67318,29.40613,Ege THM,2026-11-03,2026-11-26
-48664c85-bace-45f2-bb43-7da82213fd7d,11000001,Van,Van,65,Merkez,Kentsel,38.5192,43.35986,Güneydoğu Anadolu THM,2026-11-03,2026-11-26
-4fab1c99-0bc7-46fb-9f9d-f03ebb52650d,11000001,Van - İpekyolu,Van,65,Merkez,Kentsel,38.49064,43.40517,Güneydoğu Anadolu THM,2026-11-03,2026-11-26
-b94d1cf3-140c-496e-9ad1-44e036a33931,TR0115A,Yozgat,Yozgat,66,Merkez,Hava Kalitesi,39.81886,34.80692,Kuzey İç Anadolu THM,2026-11-03,2026-11-26
-813e866c-ff90-4cd7-bfb7-36ff67b13902,TR660241,Yozgat - Sorgun,Yozgat,66,Sorgun,Hava Kalitesi,39.80693,35.18149,Kuzey İç Anadolu THM,2026-11-03,2026-11-26
-5137df3f-320b-4d01-99ee-7db07c278e8f,TR670541,Zonguldak - Karadeniz Ereğli,Zonguldak,67,Ereğli,Hava Kalitesi,41.25109,31.43087,Kuzey İç Anadolu THM,2026-11-03,2026-11-26
-c3fe5e8e-579d-448b-8137-e7cd7e447ab1,TR670322,Zonguldak - Kilimli,Zonguldak,67,Merkez,Hava Kalitesi,41.48561,31.83781,Kuzey İç Anadolu THM,2026-11-03,2026-11-26
-be837236-0704-447c-8a43-ccce0f3ded55,TR670441,Zonguldak - Kozlu,Zonguldak,67,Merkez,Hava Kalitesi,41.43505,31.74586,Kuzey İç Anadolu THM,2026-11-03,2026-11-26
+d9f15eae-128a-4a71-ad30-141b4728a520,TR340341,İstanbul - Kağıthane-MTHM,İstanbul,34,Kağıthane,Isınma,41.09235,28.97482,Marmara THM,2026-11-03,2026-11-27
+8cff7d4d-a5be-4e74-93ff-e75437639604,TR343041,İstanbul - Kumköy,İstanbul,34,Sarıyer,Hava Kalitesi,41.25044,29.03829,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-27
+6b7a9840-1e13-4045-a79d-0f881c4852ad,TR343131,İstanbul - Maslak,İstanbul,34,Sarıyer,Hava Kalitesi,41.10007,29.0245,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-27
+8e79f4d4-95e2-43db-ab78-59921013af3d,TR343841,İstanbul - Sancaktepe,İstanbul,34,Sancaktepe,Hava Kalitesi,41.00322,29.22594,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-27
+ed81dc69-345a-479d-8b9b-e82db11b276e,TR342441,İstanbul - Sarıyer,İstanbul,34,Sarıyer,Hava Kalitesi,41.12792,29.0485,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-27
+2054f684-6a42-438f-ae03-bb90445e71e6,TR343241,İstanbul - Selimiye,İstanbul,34,Kadıköy,Hava Kalitesi,41.00376,29.027,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-27
+7a8fdd1a-2aae-4128-a1b6-1064d760d108,TR340611,İstanbul - Silivri-MTHM,İstanbul,34,Silivri,Isınma,41.08926,28.25552,Marmara THM,2026-11-03,2026-11-27
+593780cc-69d7-417c-8089-8672c509bc0b,10100001,İstanbul - Sultangazi 1,İstanbul,34,Sultangazi,Hava Kalitesi,41.10914,28.89435,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-27
+3cb2525d-15e6-48b7-84d2-df139b14e991,10080001,İstanbul - Sultangazi 2,İstanbul,34,Sultangazi,Hava Kalitesi,41.10773,28.87438,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-27
+aa68d3ab-2188-4821-869d-a528b61a05c6,10100001,İstanbul - Sultangazi 3,İstanbul,34,Sultangazi,Hava Kalitesi,41.11442,28.85193,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-27
+575665d7-e92d-4a1c-bc0d-ea9d5dcc5ed9,TR340841,İstanbul - Sultangazi-MTHM,İstanbul,34,Sultangazi,Isınma,41.10771,28.87432,Marmara THM,2026-11-03,2026-11-27
+3de006fe-6252-4f09-8a08-4539ed5cb43c,TR343941,İstanbul - Tuzla,İstanbul,34,Tuzla,Hava Kalitesi,40.84312,29.30262,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-27
+6929a9ca-977d-4cb3-b1b5-26b95f4d4515,TR342741,İstanbul - Yenibosna,İstanbul,34,Bakırköy,Hava Kalitesi,40.99738,28.82704,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-27
+b9709aaf-454d-4e41-af8c-ddc4302b1014,TR342931,İstanbul - Çatladıkapı,İstanbul,34,Fatih,Hava Kalitesi,41.00233,28.97512,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-27
+377e1216-bcc7-42c0-aad8-4d5b3d602b78,TR342541,İstanbul - Ümraniye,İstanbul,34,Ümraniye,Hava Kalitesi,41.01269,29.16181,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-27
+c83902d3-a077-48aa-83b5-046ce9d13027,TR341131,İstanbul - Ümraniye-MTHM,İstanbul,34,Ümraniye,Kentsel-Trafik,41.02444,29.09975,Marmara THM,2026-11-03,2026-11-27
+a30101a6-349c-4f0d-b965-a68f2c6781e9,TR342641,İstanbul - Üsküdar,İstanbul,34,Kadıköy,Hava Kalitesi,41.01426,29.02469,İSTANBUL BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-27
+fcb6d9b7-11f6-428d-b251-35fc5d89195f,TR350341,İzmir - Alsancak İBB,İzmir,35,Konak,Hava Kalitesi,38.43222,27.14444,İZMİR BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-27
+ca22007c-ffb4-40a3-adf4-2fb3ae5bf716,TR350441,İzmir - Bayraklı İBB,İzmir,35,Karşıyaka,Hava Kalitesi,38.46222,27.16667,İZMİR BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-27
+00b1dcdb-702d-459b-8399-30548d8164ec,TR350541,İzmir - Bornova,İzmir,35,Bornova,Kentsel-Sanayi,38.45462,27.23111,Ege THM,2026-11-03,2026-11-27
+5095a053-4859-498f-88e9-bae31c596f7f,10010001,İzmir - Bornova İBB,İzmir,35,Bornova,Hava Kalitesi,38.46917,27.22139,İZMİR BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-27
+332d897b-81d5-427c-a278-6b9b841da3d5,TR350741,İzmir - Güzelyalı İBB,İzmir,35,Balçova,Hava Kalitesi,38.39583,27.08278,İZMİR BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-27
+1eb466d5-8d74-495e-8b22-637febcdc5c2,10010001,İzmir - Karşıyaka İBB,İzmir,35,Karşıyaka,Hava Kalitesi,38.45417,27.10972,İZMİR BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-27
+862bd2b3-3434-4a69-8b7a-1b9dccdec63c,10030001,İzmir - Konak,İzmir,35,Konak,Hava Kalitesi,38.42389,27.14073,Ege THM,2026-11-03,2026-11-27
+488a7170-05ff-4366-ba4b-a86d27d262e3,10040001,İzmir - Yenifoça,İzmir,35,Foça,Hava Kalitesi,38.74473,26.83169,Ege THM,2026-11-03,2026-11-27
+4f00873d-af5c-49bf-97ea-b495a29e4271,TR350941,İzmir - Şirinyer İBB,İzmir,35,Konak,Hava Kalitesi,38.3825,27.14833,İZMİR BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-27
+6b07d8e7-0de7-47ed-a215-f1547dfb1151,TR360231,Kars - Trafik,Kars,36,Merkez,Hava Kalitesi,40.60095,43.09684,Doğu Anadolu THM,2026-11-03,2026-11-27
+3250d2a7-df2b-40ac-9137-96b321454a20,10020001,Kastamonu - Azdavay,Kastamonu,37,Azdavay,Kırsal,41.68594,33.50451,Kuzey İç Anadolu THM,2026-11-03,2026-11-27
+c3892899-860e-4f2a-ac46-308590fd3d8b,TR380321,Kayseri - OSB,Kayseri,38,Melikgazi,Hava Kalitesi,38.74046,35.3754,Güney İç Anadolu THM,2026-11-03,2026-11-27
+c0eb93c9-d231-438b-a2b6-9fb9bf37247d,TR390141,Kırklareli,Kırklareli,39,Merkez,Isınma,41.72443,27.21483,Marmara THM,2026-11-03,2026-11-27
+918ea8ac-f47d-465d-b82e-9489844514c2,TR400141,Kırşehir,Kırşehir,40,Merkez,Hava Kalitesi,39.13812,34.16824,Kuzey İç Anadolu THM,2026-11-03,2026-11-27
+15658d72-2e89-442c-b167-9d742a8f6348,TR410141,Kocaeli,Kocaeli,41,Merkez,Isınma,40.76452,29.94931,Marmara THM,2026-11-03,2026-11-27
+59f64c81-69da-4750-83b4-cdd5a89fabda,TR4101322,Kocaeli - Gebze OSB - MTHM,Kocaeli,41,Gebze,Kentsel-Sanayi,40.84578,29.42518,Marmara THM,2026-11-03,2026-11-27
+0e7f071a-744a-46e1-ba0c-fc85cd589f58,TR410741,Kocaeli - Gölcük-MTHM,Kocaeli,41,Gölcük,Isınma,40.72636,29.79529,Marmara THM,2026-11-03,2026-11-27
+b7a0d184-331c-4ab0-b2c3-d80bac39db0f,TR410913,Kocaeli - Kandıra-MTHM,Kocaeli,41,Kandıra,Kırsal,41.13102,30.00665,Marmara THM,2026-11-03,2026-11-27
+b046ee76-3503-4751-8d22-0746a7e554c7,TR411122,Kocaeli - Körfez-MTHM,Kocaeli,41,Merkez,Kentsel-Sanayi,40.7461,29.78891,Marmara THM,2026-11-03,2026-11-27
+db3099d9-3b4b-492c-929d-3971fa0ccd42,TR421341,Konya - Karkent,Konya,42,Karatay,Hava Kalitesi,37.89985,32.52888,Güney İç Anadolu THM,2026-11-03,2026-11-27
+d216d40e-e569-4397-9e82-3cd4bd881636,TR421113,Konya - Sarayönü,Konya,42,Sarayönü,Kırsal,38.49411,32.45754,Güney İç Anadolu THM,2026-11-03,2026-11-27
+248d338b-6f5b-4492-b805-e46fb2528e4d,10010001,Konya - Trafik,Konya,42,Selçuklu,Kentsel-Trafik,37.88831,32.49359,Güney İç Anadolu THM,2026-11-03,2026-11-27
+527475d6-66f5-4023-8b97-f60ff4557121,10000001,Konya-Erenköy-Belediye,Konya,42,Selçuklu,Hava Kalitesi,37.9068,32.46001,KONYA BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-27
+81ad3847-bdfd-4520-be48-4fde44a7e97d,TR420341,Konya-Karatay (Sunaypark),Konya,42,Karatay,Isınma,37.84449,32.51334,Güney İç Anadolu THM,2026-11-03,2026-11-27
+56662403-7c58-42f8-929e-911cca9e99fe,10010001,Konya-Karatay-Belediye,Konya,42,Selçuklu,Hava Kalitesi,37.86819,32.51631,KONYA BÜYÜKŞEHİR BELEDİYE,2026-11-03,2026-11-27
+d07cf4db-1548-4a41-b1f4-f267ca47df62,TR430131,Kütahya - Atatürk Bulvarı,Kütahya,43,Merkez,Hava Kalitesi,39.42359,29.98878,Kuzey İç Anadolu THM,2026-11-03,2026-11-27
+f749f9d3-6815-4b0f-89f7-763b836131f9,TR430241,Kütahya - Heymeana Cad.,Kütahya,43,Merkez,Hava Kalitesi,39.41188,30.00862,Kuzey İç Anadolu THM,2026-11-03,2026-11-27
+b7121624-b3a3-41af-8485-49bc60fe13bc,TR430341,Kütahya - Kentpark,Kütahya,43,Merkez,Hava Kalitesi,39.42818,29.96981,Kuzey İç Anadolu THM,2026-11-03,2026-11-27
+1471766a-b827-44de-be15-a0e452e12874,TR430441,Kütahya - Tavşanlı,Kütahya,43,Tavşanlı,Hava Kalitesi,39.5421,29.49229,Kuzey İç Anadolu THM,2026-11-03,2026-11-27
+55268802-e8d7-4665-b063-05502db18cc3,TR440141,Malatya,Malatya,44,Merkez,Hava Kalitesi,38.34975,38.34108,Güneydoğu Anadolu THM,2026-11-03,2026-11-27
+bc2deba2-f0b0-4faf-a06f-8a342e0a6b2b,10020001,Manisa - Alaşehir,Manisa,45,Alaşehir,Hava Kalitesi,38.41736,28.50702,Ege THM,2026-11-03,2026-11-27
+b3b86485-67c0-4bf1-8226-1b4d29a9dfe2,TR450241,Manisa - Soma,Manisa,45,Soma,Hava Kalitesi,39.18228,27.61273,Ege THM,2026-11-03,2026-11-27
+3c40490a-406a-424d-a199-5373212955dd,TR460241,Kahramanmaraş - Elbistan,Kahramanmaraş,46,Elbistan,Hava Kalitesi,38.20367,37.19817,Akdeniz THM,2026-11-03,2026-11-27
+d93f8472-8b36-4854-ac7e-ffdd42f4a254,TR470141,Mardin,Mardin,47,Kızıltepe,Hava Kalitesi,37.31641,40.72707,Güneydoğu Anadolu THM,2026-11-03,2026-11-27
+ef5c7f43-a7ff-46a0-8e48-293a6b9f5a88,TR490141,Muş,Muş,49,Merkez,Hava Kalitesi,38.74172,41.50577,Güneydoğu Anadolu THM,2026-11-03,2026-11-27
+dfabaef6-2ef2-43cf-b12f-92ab0a6c3ec3,TR510341,Niğde,Niğde,51,Merkez,Hava Kalitesi,37.96839,34.68558,Güney İç Anadolu THM,2026-11-03,2026-11-27
+2cdec331-2c7c-4c98-b7a1-ccae22b5b8e3,TR520341,Ordu - Karşıyaka,Ordu,52,Merkez,Hava Kalitesi,40.97377,37.90764,Orta Karadeniz THM,2026-11-03,2026-11-27
+f876d75d-2deb-45d0-aea8-81527f471dcc,TR530213,Rize - Ardeşen,Rize,53,Ardeşen,Hava Kalitesi,41.12743,41.04724,Doğu Anadolu THM,2026-11-03,2026-11-27
+71c5c671-f4a0-4cb6-8986-941945e73ba6,TR540141,Sakarya,Sakarya,54,Merkez,Kentsel-Trafik,40.76699,30.39386,Marmara THM,2026-11-03,2026-11-27
+c199d715-4d05-497e-be36-035503b29407,TR540422,Sakarya - Hendek OSB - MTHM,Sakarya,54,Akyazı,Kentsel-Sanayi,40.76313,30.64859,Marmara THM,2026-11-03,2026-11-27
+31898e1e-8605-4529-a7ca-97fd52f989b3,TR540331,Sakarya - Ozanlar - MTHM,Sakarya,54,Merkez,Isınma,40.79076,30.39712,Marmara THM,2026-11-03,2026-11-27
+c6364fd7-0dc9-41b2-a465-8e41dc2578c9,TR550241,Samsun - Atakum,Samsun,55,Atakum,Hava Kalitesi,41.32548,36.29664,Orta Karadeniz THM,2026-11-03,2026-11-27
+38c9f703-bdbb-43bf-ae0e-e51384bbd31e,TR550631,Samsun - Yüzüncüyıl,Samsun,55,Merkez,Hava Kalitesi,41.29091,36.32834,Orta Karadeniz THM,2026-11-03,2026-11-27
+452a017b-77b6-4e51-9589-eb0416ab2c9a,TR560141,Siirt,Siirt,56,Merkez,Hava Kalitesi,37.93197,41.9351,Güneydoğu Anadolu THM,2026-11-03,2026-11-27
+a02766c5-1afe-40b5-b323-55f86d79e89a,TR580141,Sivas - Başöğretmen,Sivas,58,Merkez,Hava Kalitesi,39.74865,37.0258,Orta Karadeniz THM,2026-11-03,2026-11-27
+0cb00e22-7298-4a0e-8227-5b87329d592a,TR580341,Sivas - Meteoroloji,Sivas,58,Merkez,Hava Kalitesi,39.74375,37.00173,Orta Karadeniz THM,2026-11-03,2026-11-27
+c2c404d6-4e2e-43f3-94d7-9a6813432426,TR580231,Sivas - İstasyonkavşağı,Sivas,58,Merkez,Hava Kalitesi,39.7473,37.01333,Orta Karadeniz THM,2026-11-03,2026-11-27
+d80457d6-c4ac-4f6a-ad97-5555b2ddb67f,TR590141,Tekirdağ,Tekirdağ,59,Merkez,Kent Çevresi-Trafik,40.97093,27.49954,Marmara THM,2026-11-03,2026-11-27
+416f2d64-7c04-4b18-af2f-cb2d42a75d0f,TR590341,Tekirdağ - Çerkezköy - MTHM,Tekirdağ,59,Çerkezköy,Kentsel-Sanayi,41.31835,27.98015,Marmara THM,2026-11-03,2026-11-27
+d3359315-e62c-4d26-aecf-ed5d7e352e33,TR590522,Tekirdağ - Çorlu OSB - MTHM,Tekirdağ,59,Çorlu,Kentsel-Sanayi,41.18073,27.81543,Marmara THM,2026-11-03,2026-11-27
+29125b03-49f3-46eb-bf3a-35a6fa844d6f,TR600331,Tokat - Meydan,Tokat,60,Merkez,Hava Kalitesi,40.31833,36.55194,Orta Karadeniz THM,2026-11-03,2026-11-27
+56d322ed-3bea-466c-a701-16eca2124ef2,TR610341,Trabzon - Beşirli,Trabzon,61,Merkez,Hava Kalitesi,40.9944,39.66786,Doğu Anadolu THM,2026-11-03,2026-11-27
+581f18fd-cabd-42eb-9f87-fcfb94a0534e,TR0110A,Tunceli,Tunceli,62,Merkez,Hava Kalitesi,39.10953,39.54447,Güneydoğu Anadolu THM,2026-11-03,2026-11-27
+9d4d9186-79b9-4667-b34c-c228561dab43,TR0111A,Şanlıurfa,Şanlıurfa,63,Merkez,Hava Kalitesi,37.16039,38.78687,Güneydoğu Anadolu THM,2026-11-03,2026-11-27
+fab9711d-de3e-4326-80ec-4e0d19af5bf3,11000001,Şanlıurfa - Eyyübiye,Şanlıurfa,63,Merkez,Kentsel,37.11287,38.80927,Güneydoğu Anadolu THM,2026-11-03,2026-11-27
+901c1e19-12e9-4f0e-a7cb-d099af4ff7b3,11000001,Şanlıurfa - Karaköprü,Şanlıurfa,63,Merkez,Kentsel,37.2022,38.81172,Güneydoğu Anadolu THM,2026-11-03,2026-11-27
+1391e55f-9df5-429c-b2fb-ed4a8e44a73f,TR0112A,Uşak,Uşak,64,Merkez,Kentsel-Trafik,38.66395,29.40451,Ege THM,2026-11-03,2026-11-27
+99cf689e-1e80-4b00-a641-b37eb694014a,10020001,Uşak-Trafik,Uşak,64,Merkez,Kentsel-Trafik,38.67318,29.40613,Ege THM,2026-11-03,2026-11-27
+48664c85-bace-45f2-bb43-7da82213fd7d,11000001,Van,Van,65,Merkez,Kentsel,38.5192,43.35986,Güneydoğu Anadolu THM,2026-11-03,2026-11-27
+4fab1c99-0bc7-46fb-9f9d-f03ebb52650d,11000001,Van - İpekyolu,Van,65,Merkez,Kentsel,38.49064,43.40517,Güneydoğu Anadolu THM,2026-11-03,2026-11-27
+b94d1cf3-140c-496e-9ad1-44e036a33931,TR0115A,Yozgat,Yozgat,66,Merkez,Hava Kalitesi,39.81886,34.80692,Kuzey İç Anadolu THM,2026-11-03,2026-11-27
+813e866c-ff90-4cd7-bfb7-36ff67b13902,TR660241,Yozgat - Sorgun,Yozgat,66,Sorgun,Hava Kalitesi,39.80693,35.18149,Kuzey İç Anadolu THM,2026-11-03,2026-11-27
+5137df3f-320b-4d01-99ee-7db07c278e8f,TR670541,Zonguldak - Karadeniz Ereğli,Zonguldak,67,Ereğli,Hava Kalitesi,41.25109,31.43087,Kuzey İç Anadolu THM,2026-11-03,2026-11-27
+c3fe5e8e-579d-448b-8137-e7cd7e447ab1,TR670322,Zonguldak - Kilimli,Zonguldak,67,Merkez,Hava Kalitesi,41.48561,31.83781,Kuzey İç Anadolu THM,2026-11-03,2026-11-27
+be837236-0704-447c-8a43-ccce0f3ded55,TR670441,Zonguldak - Kozlu,Zonguldak,67,Merkez,Hava Kalitesi,41.43505,31.74586,Kuzey İç Anadolu THM,2026-11-03,2026-11-27
 037f4455-543a-4990-8ba3-254a8c1b0b63,10040001,Zonguldak - Muslu Tepeköy,Zonguldak,67,Merkez,Hava Kalitesi,41.52691,31.9375,Zonguldak Eren Enerji,2026-11-03,2026-11-25
-7058210e-a4b5-4b90-9e46-ec674d6e52cd,TR670831,Zonguldak - Trafik,Zonguldak,67,Merkez,Hava Kalitesi,41.45229,31.78719,Kuzey İç Anadolu THM,2026-11-03,2026-11-26
-df9142f3-3b6c-46d6-8738-1316a6ef64dc,10040001,Zonguldak - Çatalağzı Cumayanı,Zonguldak,67,Merkez,Hava Kalitesi,41.49646,31.88019,Zonguldak Eren Enerji,2026-11-03,2026-11-26
-e6c6c6b4-0ac5-45e8-9186-df25cb79488e,10040001,Zonguldak - Çatalağzı Kuzyaka,Zonguldak,67,Merkez,Hava Kalitesi,41.5106,31.89651,Zonguldak Eren Enerji,2026-11-03,2026-11-26
-86ee28de-6616-4609-84dc-a0b6cad05060,TR670241,Zonguldak - Çaycuma,Zonguldak,67,Çaycuma,Hava Kalitesi,41.42137,32.08305,Kuzey İç Anadolu THM,2026-11-03,2026-11-26
-c8787cc3-6a70-48d9-aca4-3bdcda8ea3bb,TR680241,Aksaray,Aksaray,68,Merkez,Hava Kalitesi,38.36447,34.02851,Güney İç Anadolu THM,2026-11-03,2026-11-26
-2af14e3a-831c-4476-a623-526ab1e92e39,TR0072A,Karaman,Karaman,70,Merkez,Hava Kalitesi,37.17097,33.22712,Güney İç Anadolu THM,2026-11-03,2026-11-26
-094547d5-bf2b-44bf-8016-0750ad767211,TR0079A,Kırıkkale,Kırıkkale,71,Balışeyh,Hava Kalitesi,39.84318,33.51821,Kuzey İç Anadolu THM,2026-11-03,2026-11-26
-7f426b4e-88e3-4132-b9b6-9bffb7721eb6,TR710231,Kırıkkale - Bulvar Park,Kırıkkale,71,Merkez,Kentsel-Trafik,39.8445,33.4999,Kuzey İç Anadolu THM,2026-11-03,2026-11-26
-201e9efc-4abe-457f-83f5-dd918eff512d,11000001,Batman,Batman,72,Merkez,Kent Çevresi,37.89971,41.14107,Güneydoğu Anadolu THM,2026-11-03,2026-11-26
-23ac6ffc-1067-4c8e-ad2d-2ba5da78b876,11000001,Batman - 2,Batman,72,Merkez,Kent Çevresi,37.88911,41.10831,Güneydoğu Anadolu THM,2026-11-03,2026-11-26
-281afc9d-f012-429c-9cdc-de24e9e817e8,TR0104A,Şırnak,Şırnak,73,Merkez,Hava Kalitesi,37.52278,42.45516,Güneydoğu Anadolu THM,2026-11-03,2026-11-26
-8560f8d1-c514-4a9c-a076-052a7079f680,Şırnak - Silopi,Şırnak - Silopi,Şırnak,73,Silopi,Kent Çevresi,37.24834,42.46959,Güneydoğu Anadolu THM,2026-11-03,2026-11-26
-2af876e1-cf2d-4cf2-bc06-a8863c66710a,TR0023A,Bartın,Bartın,74,Merkez,Hava Kalitesi,41.63222,32.33651,Kuzey İç Anadolu THM,2026-11-03,2026-11-26
-ec772d9f-3404-476c-8516-1e6fa570d7c5,TR0049A,Iğdır,Iğdır,76,Merkez,Hava Kalitesi,39.92642,44.0538,Doğu Anadolu THM,2026-11-03,2026-11-26
-2a865979-15b8-48d4-9f37-0751302aa854,TR760213,Iğdır - Aralık,Iğdır,76,Aralık,Hava Kalitesi,39.78629,44.62012,Doğu Anadolu THM,2026-11-03,2026-11-26
-5a23cf12-2acd-4813-b3c3-a98edc41d3f2,TR0114A,Yalova,Yalova,77,Merkez,Isınma,40.6534,29.26161,Marmara THM,2026-11-03,2026-11-26
-dee414ee-760e-4c9f-8958-5f070e2ba25c,TR770212,Yalova - Altınova-MTHM,Yalova,77,Altınova,Isınma,40.70055,29.5078,Marmara THM,2026-11-03,2026-11-26
-94d6bbd2-4811-42e5-a5a0-060f51cc852d,TR770313,Yalova - Armutlu-MTHM,Yalova,77,Armutlu,Kırsal,40.52922,28.78448,Marmara THM,2026-11-03,2026-11-26
-9902ebf4-b13b-4123-b856-d0df9ec8a228,TR780121,Karabük - 75. Yıl ,Karabük,78,Safranbolu,Hava Kalitesi,41.22981,32.66209,Kuzey İç Anadolu THM,2026-11-03,2026-11-26
-4b418e5d-ca52-4710-b6b7-ce89ee1b3609,10040001,Karabük - Kardemir 1,Karabük,78,Merkez,Hava Kalitesi,41.1921,32.62723,KARABÜK KARDEMİR DEMİR ÇELİK,2026-11-03,2026-11-26
-6afef1b1-1b48-4545-9d53-d0e1461de1e5,10040001,Karabük - Kardemir 2,Karabük,78,Merkez,Hava Kalitesi,41.17974,32.63098,KARABÜK KARDEMİR DEMİR ÇELİK,2026-11-03,2026-11-26
-3a6911b6-b0f2-4262-85ae-dcadd33c3d92,TR780341,Karabük - Safranbolu,Karabük,78,Safranbolu,Hava Kalitesi,41.25316,32.67337,Kuzey İç Anadolu THM,2026-11-03,2026-11-26
-65368962-c50c-4d4c-b0f6-90a8b7b22b66,TR780521,Karabük - Tören Alanı,Karabük,78,Merkez,Kentsel-Sanayi,41.19722,32.62349,Kuzey İç Anadolu THM,2026-11-03,2026-11-26
-2781f406-d7ec-494a-8fc2-94898a18016a,TR0078A,Kilis,Kilis,79,Merkez,Hava Kalitesi,36.71543,37.12713,Akdeniz THM,2026-11-03,2026-11-26
-693a75eb-ed69-48e7-a860-fad8bb1be336,TR0097A,Osmaniye,Osmaniye,80,Merkez,Hava Kalitesi,37.08572,36.25436,Akdeniz THM,2026-11-03,2026-11-26
-8c4e2bce-79a1-4970-beda-e5cae28bd790,TR0038A,Düzce,Düzce,81,Merkez,Hava Kalitesi,40.84145,31.13875,Kuzey İç Anadolu THM,2026-11-03,2026-11-26
-575c379c-3b84-43bf-b5b8-8d9aa833488c,TR810341,Düzce - Bahçeşehir,Düzce,81,Merkez,Hava Kalitesi,40.86068,31.22882,Kuzey İç Anadolu THM,2026-11-03,2026-11-26
-00fea4a4-20f6-4a2d-9390-90a385f24907,TR810231,Düzce - Belediye,Düzce,81,Merkez,Kentsel-Trafik,40.83871,31.16196,Kuzey İç Anadolu THM,2026-11-21,2026-11-26
+7058210e-a4b5-4b90-9e46-ec674d6e52cd,TR670831,Zonguldak - Trafik,Zonguldak,67,Merkez,Hava Kalitesi,41.45229,31.78719,Kuzey İç Anadolu THM,2026-11-03,2026-11-27
+df9142f3-3b6c-46d6-8738-1316a6ef64dc,10040001,Zonguldak - Çatalağzı Cumayanı,Zonguldak,67,Merkez,Hava Kalitesi,41.49646,31.88019,Zonguldak Eren Enerji,2026-11-03,2026-11-27
+e6c6c6b4-0ac5-45e8-9186-df25cb79488e,10040001,Zonguldak - Çatalağzı Kuzyaka,Zonguldak,67,Merkez,Hava Kalitesi,41.5106,31.89651,Zonguldak Eren Enerji,2026-11-03,2026-11-27
+86ee28de-6616-4609-84dc-a0b6cad05060,TR670241,Zonguldak - Çaycuma,Zonguldak,67,Çaycuma,Hava Kalitesi,41.42137,32.08305,Kuzey İç Anadolu THM,2026-11-03,2026-11-27
+c8787cc3-6a70-48d9-aca4-3bdcda8ea3bb,TR680241,Aksaray,Aksaray,68,Merkez,Hava Kalitesi,38.36447,34.02851,Güney İç Anadolu THM,2026-11-03,2026-11-27
+2af14e3a-831c-4476-a623-526ab1e92e39,TR0072A,Karaman,Karaman,70,Merkez,Hava Kalitesi,37.17097,33.22712,Güney İç Anadolu THM,2026-11-03,2026-11-27
+094547d5-bf2b-44bf-8016-0750ad767211,TR0079A,Kırıkkale,Kırıkkale,71,Balışeyh,Hava Kalitesi,39.84318,33.51821,Kuzey İç Anadolu THM,2026-11-03,2026-11-27
+7f426b4e-88e3-4132-b9b6-9bffb7721eb6,TR710231,Kırıkkale - Bulvar Park,Kırıkkale,71,Merkez,Kentsel-Trafik,39.8445,33.4999,Kuzey İç Anadolu THM,2026-11-03,2026-11-27
+201e9efc-4abe-457f-83f5-dd918eff512d,11000001,Batman,Batman,72,Merkez,Kent Çevresi,37.89971,41.14107,Güneydoğu Anadolu THM,2026-11-03,2026-11-27
+23ac6ffc-1067-4c8e-ad2d-2ba5da78b876,11000001,Batman - 2,Batman,72,Merkez,Kent Çevresi,37.88911,41.10831,Güneydoğu Anadolu THM,2026-11-03,2026-11-27
+281afc9d-f012-429c-9cdc-de24e9e817e8,TR0104A,Şırnak,Şırnak,73,Merkez,Hava Kalitesi,37.52278,42.45516,Güneydoğu Anadolu THM,2026-11-03,2026-11-27
+8560f8d1-c514-4a9c-a076-052a7079f680,Şırnak - Silopi,Şırnak - Silopi,Şırnak,73,Silopi,Kent Çevresi,37.24834,42.46959,Güneydoğu Anadolu THM,2026-11-03,2026-11-27
+2af876e1-cf2d-4cf2-bc06-a8863c66710a,TR0023A,Bartın,Bartın,74,Merkez,Hava Kalitesi,41.63222,32.33651,Kuzey İç Anadolu THM,2026-11-03,2026-11-27
+ec772d9f-3404-476c-8516-1e6fa570d7c5,TR0049A,Iğdır,Iğdır,76,Merkez,Hava Kalitesi,39.92642,44.0538,Doğu Anadolu THM,2026-11-03,2026-11-27
+2a865979-15b8-48d4-9f37-0751302aa854,TR760213,Iğdır - Aralık,Iğdır,76,Aralık,Hava Kalitesi,39.78629,44.62012,Doğu Anadolu THM,2026-11-03,2026-11-27
+5a23cf12-2acd-4813-b3c3-a98edc41d3f2,TR0114A,Yalova,Yalova,77,Merkez,Isınma,40.6534,29.26161,Marmara THM,2026-11-03,2026-11-27
+dee414ee-760e-4c9f-8958-5f070e2ba25c,TR770212,Yalova - Altınova-MTHM,Yalova,77,Altınova,Isınma,40.70055,29.5078,Marmara THM,2026-11-03,2026-11-27
+94d6bbd2-4811-42e5-a5a0-060f51cc852d,TR770313,Yalova - Armutlu-MTHM,Yalova,77,Armutlu,Kırsal,40.52922,28.78448,Marmara THM,2026-11-03,2026-11-27
+9902ebf4-b13b-4123-b856-d0df9ec8a228,TR780121,Karabük - 75. Yıl ,Karabük,78,Safranbolu,Hava Kalitesi,41.22981,32.66209,Kuzey İç Anadolu THM,2026-11-03,2026-11-27
+4b418e5d-ca52-4710-b6b7-ce89ee1b3609,10040001,Karabük - Kardemir 1,Karabük,78,Merkez,Hava Kalitesi,41.1921,32.62723,KARABÜK KARDEMİR DEMİR ÇELİK,2026-11-03,2026-11-27
+6afef1b1-1b48-4545-9d53-d0e1461de1e5,10040001,Karabük - Kardemir 2,Karabük,78,Merkez,Hava Kalitesi,41.17974,32.63098,KARABÜK KARDEMİR DEMİR ÇELİK,2026-11-03,2026-11-27
+3a6911b6-b0f2-4262-85ae-dcadd33c3d92,TR780341,Karabük - Safranbolu,Karabük,78,Safranbolu,Hava Kalitesi,41.25316,32.67337,Kuzey İç Anadolu THM,2026-11-03,2026-11-27
+65368962-c50c-4d4c-b0f6-90a8b7b22b66,TR780521,Karabük - Tören Alanı,Karabük,78,Merkez,Kentsel-Sanayi,41.19722,32.62349,Kuzey İç Anadolu THM,2026-11-03,2026-11-27
+2781f406-d7ec-494a-8fc2-94898a18016a,TR0078A,Kilis,Kilis,79,Merkez,Hava Kalitesi,36.71543,37.12713,Akdeniz THM,2026-11-03,2026-11-27
+693a75eb-ed69-48e7-a860-fad8bb1be336,TR0097A,Osmaniye,Osmaniye,80,Merkez,Hava Kalitesi,37.08572,36.25436,Akdeniz THM,2026-11-03,2026-11-27
+8c4e2bce-79a1-4970-beda-e5cae28bd790,TR0038A,Düzce,Düzce,81,Merkez,Hava Kalitesi,40.84145,31.13875,Kuzey İç Anadolu THM,2026-11-03,2026-11-27
+575c379c-3b84-43bf-b5b8-8d9aa833488c,TR810341,Düzce - Bahçeşehir,Düzce,81,Merkez,Hava Kalitesi,40.86068,31.22882,Kuzey İç Anadolu THM,2026-11-03,2026-11-27
+00fea4a4-20f6-4a2d-9390-90a385f24907,TR810231,Düzce - Belediye,Düzce,81,Merkez,Kentsel-Trafik,40.83871,31.16196,Kuzey İç Anadolu THM,2026-11-21,2026-11-27
 e3619d68-f50f-4657-a9de-1b387156ac88,Seyyar-06THL77,Merkez/Düzce (Seyyar-06THL77),Düzce,81,Merkez,Hava Kalitesi,40.84046,31.15543,"T.C. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı",2026-11-03,2026-11-06
